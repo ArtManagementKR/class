@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 05:39:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 17:45:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,14 +238,6 @@
             <pubDate>Sun, 31 Oct 2021 09:59:48 GMT</pubDate>
             <content:encoded><![CDATA[KORZ]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/bfbdfeb82571380eff15ed3597955d06.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[퍼블리싱 A&R, 진짜 중요한 건 스펙이 아니라 '진짜' | K-POP 커리어콘 (엔터잡에듀 ─ 오프라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/114</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/114</guid>
-            <pubDate>Sun, 31 Oct 2021 09:59:48 GMT</pubDate>
-            <content:encoded><![CDATA[ALEX KIM]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/debdd454d4486aacab6878218eee8fd3.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[1회] 마케팅 멘토의 1:1 취업 컨설팅 (엔터잡에듀 ─ 오프라인 클래스)]]></title>
