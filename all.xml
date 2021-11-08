@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 05:39:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 17:47:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[외국인 전용] K-POP 4대 기획사 취업하기35% Discount (엔터잡에듀 ─ 온라인 클래스)]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/155</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/155</guid>
+            <pubDate>Mon, 08 Nov 2021 17:47:10 GMT</pubDate>
+            <content:encoded><![CDATA[이상환]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/f4422529fad65e8876019117a57a5d7f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[외국인 전용] 음악산업의 이해72% Discount (엔터잡에듀 ─ 온라인 클래스)]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/153</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/153</guid>
+            <pubDate>Mon, 08 Nov 2021 17:47:10 GMT</pubDate>
+            <content:encoded><![CDATA[이상환]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/558e3fcf25e4437d01c0620d58cc1fe7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021 HYBE 서류 합격 전략19% Discount (엔터잡에듀 ─ 온라인 클래스)]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/121</link>
@@ -152,20 +168,12 @@
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/c1412ba535f6d4a88772de337d59ca66.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[입문] 2021 엔터테인먼트 채용 엔터테인먼트 취업 전망 및 동향 분석50% Discount (엔터잡에듀 ─ 온라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/70</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/70</guid>
-            <pubDate>Sun, 31 Oct 2021 09:59:38 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/2f783cccee894be197d10dcabbc0a38f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[입문] 아이돌 기획사의 이해 및 취업 준비 방법25% Discount (엔터잡에듀 ─ 온라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/69</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/69</guid>
-            <pubDate>Sun, 31 Oct 2021 09:59:38 GMT</pubDate>
-            <content:encoded><![CDATA[윤선미]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/4273023bea4238ce7fb8e1167ced07b6.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[22기] A&R 실무 역량 강화 프로그램25% Discount (엔터잡에듀 ─ 오프라인 클래스)]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/154</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/154</guid>
+            <pubDate>Mon, 08 Nov 2021 17:47:20 GMT</pubDate>
+            <content:encoded><![CDATA[배수정]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/754c2449a7a999f31b1ae64bd52aa8c7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[27기] [컨설팅 제외] 이상환 코치의 엔터 취업 한달반33% Discount (엔터잡에듀 ─ 오프라인 클래스)]]></title>
@@ -198,14 +206,6 @@
             <pubDate>Sun, 31 Oct 2021 09:59:48 GMT</pubDate>
             <content:encoded><![CDATA[이상환]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/bc5a948242a94d3ff9b8daadbf657268.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[22기] A&R 실무 역량 강화 프로그램25% Discount (엔터잡에듀 ─ 오프라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/130</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/130</guid>
-            <pubDate>Sun, 31 Oct 2021 09:59:48 GMT</pubDate>
-            <content:encoded><![CDATA[배수정]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/7ccae4f19fae95706a4a0d0acca38a07.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-POP 커리어콘 올인원 패키지79% Discount (엔터잡에듀 ─ 오프라인 클래스)]]></title>
