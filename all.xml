@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 17:46:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Nov 2021 05:39:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -206,22 +206,6 @@
             <pubDate>Sun, 31 Oct 2021 09:59:48 GMT</pubDate>
             <content:encoded><![CDATA[이상환]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/bc5a948242a94d3ff9b8daadbf657268.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[K-POP 커리어콘 올인원 패키지79% Discount (엔터잡에듀 ─ 오프라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/119</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/119</guid>
-            <pubDate>Sun, 31 Oct 2021 09:59:48 GMT</pubDate>
-            <content:encoded><![CDATA[정형진, 조동춘]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/9f214daab6309e66bef3a63c5005e612.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[눈으로 즐기는 K-POP! 비쥬얼 디렉팅 직무에 대하여 | K-POP 커리어콘 (엔터잡에듀 ─ 오프라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/117</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/117</guid>
-            <pubDate>Sun, 31 Oct 2021 09:59:48 GMT</pubDate>
-            <content:encoded><![CDATA[ZOO]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/eb9870b0291a7a705b9114a8b8167c7b.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[1회] 마케팅 멘토의 1:1 취업 컨설팅 (엔터잡에듀 ─ 오프라인 클래스)]]></title>
