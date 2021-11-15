@@ -4,7 +4,7 @@
         <title>엔터잡에듀 ─ 오프라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 17:44:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 05:39:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Tue, 02 Nov 2021 05:39:49 GMT</pubDate>
             <content:encoded><![CDATA[ZOO]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/0088c4098d6759f7b055c45e919b5aa8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔터테인먼트 취업 준비 시 직무 지원동기 잘 쓰는 법 | K-POP 커리어콘]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/132</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/132</guid>
-            <pubDate>Sun, 31 Oct 2021 09:59:48 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/bc5a948242a94d3ff9b8daadbf657268.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[1회] 마케팅 멘토의 1:1 취업 컨설팅]]></title>
