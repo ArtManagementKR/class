@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 05:40:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 17:46:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -166,6 +166,14 @@
             <pubDate>Sun, 31 Oct 2021 09:59:38 GMT</pubDate>
             <content:encoded><![CDATA[이상환]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/786888a949a75cadb8479e8e874a0e56.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🎧 A&R 입문하기 “A&R 음악 세계를 노크하다”50% Discount (엔터잡에듀 ─ 오프라인 클래스)]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/165</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/165</guid>
+            <pubDate>Thu, 25 Nov 2021 17:46:44 GMT</pubDate>
+            <content:encoded><![CDATA[ALEX KIM]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/7e71b90fc4b76a5287a93f0c286b6a65.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[12기] 마케팅 실무 역량 강화 프로그램32% Discount (엔터잡에듀 ─ 오프라인 클래스)]]></title>
