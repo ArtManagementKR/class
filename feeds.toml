@@ -17,3 +17,13 @@ linkSelector = "a"
 contentSelector = "span.lecture_item_lecture_item_tutors"
 imageSelector = "img.thumbnail"
 waitUntil = "networkidle"
+
+[staccatoh_program]
+title = "STACCATOH ─ Program"
+url = "https://staccatoh.com/program/"
+entrySelector = "ul.products.wpex-row.clr.match-height-grid li"
+titleSelector = "h2.woocommerce-loop-product__title"
+linkSelector = "a.woocommerce-LoopProduct-link.woocommerce-loop-product__link"
+contentSelector = "p.product-subtitle"
+imageSelector = "img.woo-entry-image-main"
+waitUntil = "networkidle"
