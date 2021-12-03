@@ -4,9 +4,17 @@
         <title>엔터잡에듀 ─ 온라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 05:40:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 15:37:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔터테인먼트 주요 직무소개: 영상제작58% Discount]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/168</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/168</guid>
+            <pubDate>Fri, 03 Dec 2021 15:37:14 GMT</pubDate>
+            <content:encoded><![CDATA[이채영]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/6c10c5097eed23dc5ba369c149426d57.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국내 대형 음악 엔터테인먼트 산업 조직💼의 이해]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/162</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 31 Oct 2021 09:59:38 GMT</pubDate>
             <content:encoded><![CDATA[양성민]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/6bf710a5bd3f1420b04632f2f594eac5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[입문] 엔터테인먼트 업계의 신입 채용 직무 탐색60% Discount]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/72</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/72</guid>
-            <pubDate>Sun, 31 Oct 2021 09:59:38 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/786888a949a75cadb8479e8e874a0e56.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
