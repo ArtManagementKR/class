@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Dec 2021 13:02:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 13:06:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1269,7 +1269,6 @@
             <guid>https://events.eoeoeo.net/events/20</guid>
             <pubDate>Sat, 04 Dec 2021 13:02:05 GMT</pubDate>
             <content:encoded><![CDATA[2021. 12. 09 ~ 2021. 12. 09]]></content:encoded>
-            <enclosure url="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/ratio_2d682c02-fb19-4c88-9862-1ece9a0cc0ce%EC%8D%B8%EB%84%A4%EC%9D%BC.png.png?X-Amz-Expires=600&X-Amz-Date=20211204T130202Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20211204%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=bf3063e5935c9fd3df19242546e0e0bc89cfbac718a47f38fe4dfcde7c6a3131" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[SPECTRUM CON 2021 : REFRAMING (EO ─ 이벤트)]]></title>
@@ -1277,7 +1276,6 @@
             <guid>https://events.eoeoeo.net/events/18</guid>
             <pubDate>Sat, 04 Dec 2021 13:02:05 GMT</pubDate>
             <content:encoded><![CDATA[2021. 12. 04 ~ 2021. 12. 05]]></content:encoded>
-            <enclosure url="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/ratio_426e8160-192c-45df-a5e3-305e737c4acbSC21_EO%EC%8D%B8%EB%84%A4%EC%9D%BC.png.png?X-Amz-Expires=600&X-Amz-Date=20211204T130202Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20211204%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=87763427c6d0ea39dbe8d4a5abdf4ad579a25f8d2692034fe170a15aff5b352f" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[새로운 커리어가 시작되는 e번 탑승구 | 요기요행 (EO ─ 이벤트)]]></title>
@@ -1285,7 +1283,6 @@
             <guid>https://events.eoeoeo.net/events/17</guid>
             <pubDate>Sat, 04 Dec 2021 13:02:05 GMT</pubDate>
             <content:encoded><![CDATA[2021. 11. 17 ~ 2021. 11. 17]]></content:encoded>
-            <enclosure url="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/ratio_4aa6193e-1ea6-4a75-8340-d0ccc2274292%EC%9A%94%EA%B8%B0%EC%9A%94%EC%8D%B8%EB%84%A4%EC%9D%BC.png.png?X-Amz-Expires=600&X-Amz-Date=20211204T130202Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20211204%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=bbdbae528f8ec9e1a97ddb687176deb4b3865f99dffdbadde9021d723359e2b3" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[GRID FINAL LIVE (EO ─ 이벤트)]]></title>
@@ -1293,7 +1290,6 @@
             <guid>https://events.eoeoeo.net/events/16</guid>
             <pubDate>Sat, 04 Dec 2021 13:02:05 GMT</pubDate>
             <content:encoded><![CDATA[2021. 11. 11 ~ 2021. 11. 12]]></content:encoded>
-            <enclosure url="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/ratio_94e28707-abb5-4f83-89e0-31742385159e%EC%8D%B8%EB%84%A4%EC%9D%BC%EC%B5%9C%EC%A2%85.png.png?X-Amz-Expires=600&X-Amz-Date=20211204T130202Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20211204%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=23bcd4735ad571832242e5e763a2896024fb6aa7e21baec9a0bd2a6f5411bb03" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[뤼이드 개발자 채용설명회 (EO ─ 이벤트)]]></title>
@@ -1301,7 +1297,6 @@
             <guid>https://events.eoeoeo.net/events/14</guid>
             <pubDate>Sat, 04 Dec 2021 13:02:05 GMT</pubDate>
             <content:encoded><![CDATA[2021. 10. 12 ~ 2021. 10. 12]]></content:encoded>
-            <enclosure url="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/ratio_b3930823-7c0e-4710-9c2d-e0e1c73c9368Thumbnail.png.png?X-Amz-Expires=600&X-Amz-Date=20211204T130202Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20211204%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=3028cf37b17e129e74dea215272c7f4e8c7358bec85d8d380729935df3be012e" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[센드버드 전직군 채용 설명회 Live (EO ─ 이벤트)]]></title>
@@ -1309,7 +1304,6 @@
             <guid>https://events.eoeoeo.net/events/12</guid>
             <pubDate>Sat, 04 Dec 2021 13:02:05 GMT</pubDate>
             <content:encoded><![CDATA[2021. 09. 15 ~ 2021. 09. 15]]></content:encoded>
-            <enclosure url="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/ratio_7794911b-b4d5-4d48-bf47-c78bdc20c0fcThumbnail.png.png?X-Amz-Expires=600&X-Amz-Date=20211204T130202Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20211204%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=b6e285a197577f9a3d865bcbee476865795d308a3a257a539f40d4beb2ceaabd" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[네이버웹툰 개발자 채용 설명회 with EO (EO ─ 이벤트)]]></title>
@@ -1317,7 +1311,6 @@
             <guid>https://events.eoeoeo.net/events/13</guid>
             <pubDate>Sat, 04 Dec 2021 13:02:05 GMT</pubDate>
             <content:encoded><![CDATA[2021. 09. 08 ~ 2021. 09. 08]]></content:encoded>
-            <enclosure url="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/ratio_dbe114f5-66f5-4e82-9fa5-9c9eadf9025bThumbnail.png.png?X-Amz-Expires=600&X-Amz-Date=20211204T130202Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20211204%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=ec7f8f06506a959bd655297e3c61ef365b6a669701116d22683c4962bde2d242" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[예비/초기 스타트업을 위한 사업계획서 완성 [6주 과정-환급형] (EO ─ 이벤트)]]></title>
@@ -1325,7 +1318,6 @@
             <guid>https://events.eoeoeo.net/events/11</guid>
             <pubDate>Sat, 04 Dec 2021 13:02:05 GMT</pubDate>
             <content:encoded><![CDATA[2021. 08. 28 ~ 2021. 09. 06]]></content:encoded>
-            <enclosure url="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/ratio_dbba36cd-bd9b-4e1e-a9b6-558e55ba6ce6%E1%84%89%E1%85%B3%E1%84%90%E1%85%A1%E1%84%90%E1%85%B3%E1%84%8B%E1%85%A5%E1%86%B8_Basic_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF-1.png.png?X-Amz-Expires=600&X-Amz-Date=20211204T130202Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20211204%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=411fda0b80817a9354cfb18c89e50bebe42f1ff95edfb02137842aa5c45c563c" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[스타트업 서바이벌 오디션 <유니콘 하우스> (EO ─ 이벤트)]]></title>
@@ -1333,7 +1325,6 @@
             <guid>https://events.eoeoeo.net/events/10</guid>
             <pubDate>Sat, 04 Dec 2021 13:02:05 GMT</pubDate>
             <content:encoded><![CDATA[2021. 08. 15 ~ 2021. 09. 06]]></content:encoded>
-            <enclosure url="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/ratio_fa8cc6e1-46b8-4b90-b865-6c4e23d825a4%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_2%E1%84%8E%E1%85%A1_%E1%84%89%E1%85%B5%E1%84%8B%E1%85%A1%E1%86%AB_2x.png.png?X-Amz-Expires=600&X-Amz-Date=20211204T130202Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20211204%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=29817d119d8950bf0269597635b0f47b9009eb702118b68841d29fab5a30378d" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[마이리얼트립 LIVE  슈퍼채용 설명회 with EO (EO ─ 이벤트)]]></title>
@@ -1341,7 +1332,6 @@
             <guid>https://events.eoeoeo.net/events/9</guid>
             <pubDate>Sat, 04 Dec 2021 13:02:05 GMT</pubDate>
             <content:encoded><![CDATA[2021. 08. 25 ~ 2021. 08. 25]]></content:encoded>
-            <enclosure url="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/ratio_3dd53e4a-49ee-48a2-825a-268779905976Thumbnail-Desktop-620.png.png?X-Amz-Expires=600&X-Amz-Date=20211204T130202Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20211204%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=8240c19b234141934ae59e5003b35855fc981afc25c7f68c49edeec2a9082f61" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[우아한형제들 LIVE 개발자 채용 설명회 with EO (EO ─ 이벤트)]]></title>
@@ -1349,7 +1339,6 @@
             <guid>https://events.eoeoeo.net/events/8</guid>
             <pubDate>Sat, 04 Dec 2021 13:02:05 GMT</pubDate>
             <content:encoded><![CDATA[2021. 07. 14 ~ 2021. 07. 15]]></content:encoded>
-            <enclosure url="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/ratio_94abec7e-dd84-440d-ba24-84bdce679974Thumbnail-Desktop-310.png.png?X-Amz-Expires=600&X-Amz-Date=20211204T130202Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20211204%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=a692c50dc7ad9640e7040d4799672356501fcb82af72ddfeba8b295f7d366bae" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[2021 DHP 데모데이 - 대한민국 미래 헬스케어 시장을 이끌어 갈 스타트업 이야기 (EO ─ 이벤트)]]></title>
@@ -1357,7 +1346,6 @@
             <guid>https://events.eoeoeo.net/events/6</guid>
             <pubDate>Sat, 04 Dec 2021 13:02:05 GMT</pubDate>
             <content:encoded><![CDATA[2021. 05. 05 ~ 2021. 05. 06]]></content:encoded>
-            <enclosure url="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/ratio_530fbdf0-6c5e-434e-9953-f04c86e221d5Thumbnail-Desktop-310_3x.png.png?X-Amz-Expires=600&X-Amz-Date=20211204T130202Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20211204%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=89a7bb92a10732435489a88d37ade5ec97d96ac729c835b1a87d08b17ceb252f" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[스타트업 코딩 페스페벌 잡페어 - 개발자 LIVE 채용 설명회 (EO ─ 이벤트)]]></title>
@@ -1365,7 +1353,6 @@
             <guid>https://events.eoeoeo.net/events/5</guid>
             <pubDate>Sat, 04 Dec 2021 13:02:05 GMT</pubDate>
             <content:encoded><![CDATA[2021. 03. 25 ~ 2021. 04. 10]]></content:encoded>
-            <enclosure url="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/ratio_8227ea31-6a53-4d47-a97c-7d412b417464%E1%84%89%E1%85%B3%E1%84%8F%E1%85%A9%E1%84%91%E1%85%A6_%E1%84%8C%E1%85%A1%E1%86%B8%E1%84%91%E1%85%A6%E1%84%8B%E1%85%A5_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF.png.png?X-Amz-Expires=600&X-Amz-Date=20211204T130202Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20211204%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=ee4be852d229f1e8cab53a832bf0892499ef6846208cae4e0b5654648d4a22bf" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[EO X 김나이 - 커리어콘 2021 (EO ─ 이벤트)]]></title>
@@ -1373,7 +1360,6 @@
             <guid>https://events.eoeoeo.net/events/2</guid>
             <pubDate>Sat, 04 Dec 2021 13:02:05 GMT</pubDate>
             <content:encoded><![CDATA[2021. 02. 22 ~ 2021. 02. 26]]></content:encoded>
-            <enclosure url="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/ratio_0764b917-1594-447b-b9ca-19820ed8c0ddthumb.png.png?X-Amz-Expires=600&X-Amz-Date=20211204T130202Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20211204%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=415cf82925f193973c23096c0d8d8250d078338c8d92f99ae312946a2b5b7dff" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[undefined (EO ─ 이벤트)]]></title>
@@ -1383,7 +1369,7 @@
             <content:encoded><![CDATA[<div class="mb-3">
       <a href="/video_contents/18">
         <div class="card-shape">
-          <img class="w-100 card-img-top" src="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_e2633db8-1b2a-4c26-a99b-fa126526559e%E1%84%8F%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%8F%E1%85%A9%E1%86%AB_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%91%E1%85%AE%E1%86%AF%E1%84%91%E1%85%A2%E1%84%8F%E1%85%B5%E1%84%8C%E1%85%B5_3x.png.png?X-Amz-Expires=600&amp;X-Amz-Date=20211204T130202Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20211204%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=8ae436e96e23a6490804147155288dbf06c635f73a80b6dd65a687c6358872c1" alt="Card image cap">
+          <img class="w-100 card-img-top" src="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_e2633db8-1b2a-4c26-a99b-fa126526559e%E1%84%8F%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%8F%E1%85%A9%E1%86%AB_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%91%E1%85%AE%E1%86%AF%E1%84%91%E1%85%A2%E1%84%8F%E1%85%B5%E1%84%8C%E1%85%B5_3x.png.png?X-Amz-Expires=600&amp;X-Amz-Date=20211204T130619Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20211204%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=e7a8455588f33e5d7252eaa9cb10db9fa19cc10bda7d71251096a8a5593e492e" alt="Card image cap">
         </div>
         <div class="py-3">
           <div class="row mx-0 justify-content-between">
@@ -1396,7 +1382,6 @@
           </div>
         </div>
 </a>    </div>]]></content:encoded>
-            <enclosure url="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_e2633db8-1b2a-4c26-a99b-fa126526559e%E1%84%8F%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%8F%E1%85%A9%E1%86%AB_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%91%E1%85%AE%E1%86%AF%E1%84%91%E1%85%A2%E1%84%8F%E1%85%B5%E1%84%8C%E1%85%B5_3x.png.png?X-Amz-Expires=600&X-Amz-Date=20211204T130202Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20211204%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=8ae436e96e23a6490804147155288dbf06c635f73a80b6dd65a687c6358872c1" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[undefined (EO ─ 이벤트)]]></title>
@@ -1406,7 +1391,7 @@
             <content:encoded><![CDATA[<div class="mb-3">
       <a href="/video_contents/19">
         <div class="card-shape">
-          <img class="w-100 card-img-top" src="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_85bb0bf3-a83c-421e-a037-cc1bbf39aba2%E1%84%8F%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%8F%E1%85%A9%E1%86%AB_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%86%E1%85%B5%E1%84%81%E1%85%B5%E1%84%89%E1%85%A1%E1%86%BC%E1%84%91%E1%85%AE%E1%86%B7_3x.png.png?X-Amz-Expires=600&amp;X-Amz-Date=20211204T130202Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20211204%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=c0df17936385c594130d8c3188f1a9f472a50b9409dd7b4b2d24c1ab6fcad84e" alt="Card image cap">
+          <img class="w-100 card-img-top" src="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_85bb0bf3-a83c-421e-a037-cc1bbf39aba2%E1%84%8F%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%8F%E1%85%A9%E1%86%AB_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%86%E1%85%B5%E1%84%81%E1%85%B5%E1%84%89%E1%85%A1%E1%86%BC%E1%84%91%E1%85%AE%E1%86%B7_3x.png.png?X-Amz-Expires=600&amp;X-Amz-Date=20211204T130619Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20211204%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=252880fc7ee4db40b4383caee240f4f4e28cbf55c49dc8fa05a945f3c7bd4d39" alt="Card image cap">
         </div>
         <div class="py-3">
           <div class="row mx-0 justify-content-between">
@@ -1419,7 +1404,6 @@
           </div>
         </div>
 </a>    </div>]]></content:encoded>
-            <enclosure url="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_85bb0bf3-a83c-421e-a037-cc1bbf39aba2%E1%84%8F%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%8F%E1%85%A9%E1%86%AB_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%86%E1%85%B5%E1%84%81%E1%85%B5%E1%84%89%E1%85%A1%E1%86%BC%E1%84%91%E1%85%AE%E1%86%B7_3x.png.png?X-Amz-Expires=600&X-Amz-Date=20211204T130202Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20211204%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=c0df17936385c594130d8c3188f1a9f472a50b9409dd7b4b2d24c1ab6fcad84e" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[IT 테크 스타트업 개발 리드 TALK SHOW - 매스프레소,버즈빌,잔디 (EO ─ 이벤트)]]></title>
@@ -1427,7 +1411,6 @@
             <guid>https://events.eoeoeo.net/events/7</guid>
             <pubDate>Sat, 04 Dec 2021 13:02:05 GMT</pubDate>
             <content:encoded><![CDATA[2021. 04. 26 ~ 2021. 04. 26]]></content:encoded>
-            <enclosure url="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/ratio_3bb07257-0328-4742-8143-4b6963031c80Thumbnail-Desktop-310_3x.png.png?X-Amz-Expires=600&X-Amz-Date=20211204T130202Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20211204%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=2005294535589d93745d7b182700d57b3c96429fe56b066209c7f4c12762f8d4" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[요즘 뜨는 스타트업에게 무엇이든 물어보세요! (EO ─ 이벤트)]]></title>
@@ -1435,7 +1418,6 @@
             <guid>https://events.eoeoeo.net/events/4</guid>
             <pubDate>Sat, 04 Dec 2021 13:02:05 GMT</pubDate>
             <content:encoded><![CDATA[2021. 03. 12 ~ 2021. 03. 14]]></content:encoded>
-            <enclosure url="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/ratio_c04ee384-a9fa-45c2-816e-7edd04880ec1%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF.png.png?X-Amz-Expires=600&X-Amz-Date=20211204T130202Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20211204%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=e462c8adcdf3f849de5d97eb462d7d9ba152cb5590f5c93a77cea2f2985494d9" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[No.1 액티비티 플랫폼 프립에 대한 모든 것을 물어보세요! (EO ─ 이벤트)]]></title>
@@ -1443,7 +1425,6 @@
             <guid>https://events.eoeoeo.net/events/3</guid>
             <pubDate>Sat, 04 Dec 2021 13:02:05 GMT</pubDate>
             <content:encoded><![CDATA[2021. 03. 10 ~ 2021. 03. 12]]></content:encoded>
-            <enclosure url="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/ratio_040fcc1b-3124-43c3-b552-9ba74804d3f5frip_thumbnail.jpg.jpg?X-Amz-Expires=600&X-Amz-Date=20211204T130202Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20211204%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=4e678805ff18e3abaab88096bbf7d8b2b6921cc0cba999156f785d7e9ca2ce51" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
