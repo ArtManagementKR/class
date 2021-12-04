@@ -27,3 +27,13 @@ linkSelector = "a.woocommerce-LoopProduct-link.woocommerce-loop-product__link"
 contentSelector = "p.product-subtitle"
 imageSelector = "img.woo-entry-image-main"
 waitUntil = "networkidle"
+
+[eo_events]
+title = "EO ─ 이벤트"
+url = "https://events.eoeoeo.net/events"
+entrySelector = "div.list-area div.row div.col-6.col-md-4"
+titleSelector = "h5.card-title.mt-0.mb-1"
+linkSelector = "div.mb-3 a"
+contentSelector = "small.text-secondary.term.ml-2"
+imageSelector = "img.card-img-top"
+waitUntil = "networkidle"
