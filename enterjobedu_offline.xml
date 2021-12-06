@@ -4,7 +4,7 @@
         <title>엔터잡에듀 ─ 오프라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 17:46:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 05:41:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Thu, 25 Nov 2021 17:46:44 GMT</pubDate>
             <content:encoded><![CDATA[ALEX KIM]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/7e71b90fc4b76a5287a93f0c286b6a65.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[12기] 마케팅 실무 역량 강화 프로그램32% Discount]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/158</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/158</guid>
-            <pubDate>Tue, 16 Nov 2021 05:39:37 GMT</pubDate>
-            <content:encoded><![CDATA[마케팅멘토]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/499d6ec81a8fc233ba51d4ecde207425.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[22기] A&R 실무 역량 강화 프로그램25% Discount]]></title>
