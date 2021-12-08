@@ -4,7 +4,7 @@
         <title>엔터잡에듀 ─ 오프라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 05:41:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 17:48:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,15 +40,7 @@
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/754c2449a7a999f31b1ae64bd52aa8c7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[27기] [컨설팅 제외] 이상환 코치의 엔터 취업 한달반25% Discount]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/147</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/147</guid>
-            <pubDate>Wed, 03 Nov 2021 05:39:28 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/c46eb21efd074b878027515eb9cfc422.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2기] 대형기획사 출신 현직자의 비주얼 기획 실무역량강화 프로그램25% Discount]]></title>
+            <title><![CDATA[[2, 3기] 대형기획사 출신 현직자의 비주얼 기획 실무역량강화 프로그램25% Discount]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/137</link>
             <guid>https://www.enterjobedu.co.kr/lecture/137</guid>
             <pubDate>Tue, 02 Nov 2021 05:39:49 GMT</pubDate>
