@@ -4,9 +4,17 @@
         <title>엔터잡에듀 ─ 오프라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 17:47:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 05:40:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[겨울 방학 대비 엔터 취업 만원 특강 (Zoom)50% Discount]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/176</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/176</guid>
+            <pubDate>Fri, 17 Dec 2021 05:40:15 GMT</pubDate>
+            <content:encoded><![CDATA[이상환]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/d40f560c8c4288817e8d1c50cb575d6e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[3기] RBW X 엔준모 엔터 취업 종합반21% Discount]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/172</link>
