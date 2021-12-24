@@ -4,9 +4,17 @@
         <title>엔터잡에듀 ─ 온라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 05:41:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 17:48:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022년 겨울 방학 대비 엔터 취업 만원 특강50% Discount]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/185</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/185</guid>
+            <pubDate>Fri, 24 Dec 2021 17:47:52 GMT</pubDate>
+            <content:encoded><![CDATA[이상환]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/84d67da66c34eaae8be6a505d8dc37e0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시작이 반이다! 7일만에 포트폴리오 ‘시작’하는 온라인스터디]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/183</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 24 Dec 2021 05:40:44 GMT</pubDate>
             <content:encoded><![CDATA[이상환]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/7edf743d4c70a1f2ffe14512781eb5cc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서류 합격률 2배 올리는 엔터 자소서 작성법65% Discount]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/96</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/96</guid>
-            <pubDate>Fri, 24 Dec 2021 05:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/539f6e0bd6a117fc86d6d789609c6fff.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
