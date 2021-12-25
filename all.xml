@@ -4,169 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 17:48:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Dec 2021 05:41:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2022년 겨울 방학 대비 엔터 취업 만원 특강50% Discount (엔터잡에듀 ─ 온라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/185</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/185</guid>
-            <pubDate>Fri, 24 Dec 2021 17:47:52 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/84d67da66c34eaae8be6a505d8dc37e0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시작이 반이다! 7일만에 포트폴리오 ‘시작’하는 온라인스터디 (엔터잡에듀 ─ 온라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/183</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/183</guid>
-            <pubDate>Fri, 24 Dec 2021 05:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[윤선미]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/906b5ca8e038cb07bb5ad19bc2a44d73.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2022 리뉴얼] 드림메이커 수시 채용 대비 직무 핵심 분석34% Discount (엔터잡에듀 ─ 온라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/174</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/174</guid>
-            <pubDate>Fri, 24 Dec 2021 05:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/9d95ed525c11fcd4530e62cd5c5651b7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 4분기 SM 서류 합격 전략 온라인 패키지16% Discount (엔터잡에듀 ─ 온라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/173</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/173</guid>
-            <pubDate>Fri, 24 Dec 2021 05:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/da53423ccf4b44b3664e42f2d593d195.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔터테인먼트 주요 직무 소개: 음악유통(온/오프)56% Discount (엔터잡에듀 ─ 온라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/171</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/171</guid>
-            <pubDate>Fri, 24 Dec 2021 05:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[심희진]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/e4656411c6da7200554011bafb993589.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔터테인먼트 주요 직무소개: 마케팅(음반/음원)58% Discount (엔터잡에듀 ─ 온라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/170</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/170</guid>
-            <pubDate>Fri, 24 Dec 2021 05:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[마케팅멘토]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/5474b64d33905770464b54724fa9838c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방송/미디어 주요 직무 소개: 콘텐츠 마케팅58% Discount (엔터잡에듀 ─ 온라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/169</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/169</guid>
-            <pubDate>Fri, 24 Dec 2021 05:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[김황욱]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/ea06e9be9b10514ff5b705fdd6d06148.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔터테인먼트 주요 직무소개: 영상제작58% Discount (엔터잡에듀 ─ 온라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/168</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/168</guid>
-            <pubDate>Fri, 24 Dec 2021 05:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[이채영]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/6c10c5097eed23dc5ba369c149426d57.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 대형 음악 엔터테인먼트 산업 조직💼의 이해 (엔터잡에듀 ─ 온라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/162</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/162</guid>
-            <pubDate>Fri, 24 Dec 2021 05:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/f5e49696bba12498490a85b1263b7763.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[📝10대 엔터테인먼트 기업 분석 및 지원동기 작성 전략80% Discount (엔터잡에듀 ─ 온라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/161</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/161</guid>
-            <pubDate>Fri, 24 Dec 2021 05:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/aae9aa809018d1e13ad7a2772402e741.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔터테인먼트 주요 직무소개: 공연기획58% Discount (엔터잡에듀 ─ 온라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/160</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/160</guid>
-            <pubDate>Fri, 24 Dec 2021 05:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[레나]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/5bc53855d0a8891b038d62f2b073a752.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[외국인 전용] K-POP 4대 기획사 취업하기35% Discount (엔터잡에듀 ─ 온라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/155</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/155</guid>
-            <pubDate>Fri, 24 Dec 2021 05:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/f4422529fad65e8876019117a57a5d7f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[외국인 전용] 음악산업의 이해72% Discount (엔터잡에듀 ─ 온라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/153</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/153</guid>
-            <pubDate>Fri, 24 Dec 2021 05:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/558e3fcf25e4437d01c0620d58cc1fe7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 HYBE 서류 합격 전략19% Discount (엔터잡에듀 ─ 온라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/121</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/121</guid>
-            <pubDate>Fri, 24 Dec 2021 05:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/1bd48c9f9f285964bb7fc21ff6ae1f9f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔터테인먼트 주요 직무소개: 아티스트기획58% Discount (엔터잡에듀 ─ 온라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/102</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/102</guid>
-            <pubDate>Fri, 24 Dec 2021 05:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[윤선미]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/618f4ef3cd613f43aa046cef1ccb6911.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔터테인먼트 주요 직무소개: A&R 프로덕션58% Discount (엔터잡에듀 ─ 온라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/101</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/101</guid>
-            <pubDate>Fri, 24 Dec 2021 05:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[KORZ]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/e49eb63009f9d0350d49f1f8ccc746be.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔터테인먼트 주요 직무소개: A&R 곡수급58% Discount (엔터잡에듀 ─ 온라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/100</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/100</guid>
-            <pubDate>Fri, 24 Dec 2021 05:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[KORZ]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/5436c855308a036ae6db5e91cf0e478a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔터테인먼트 주요 직무소개: 신인개발 (트레이닝)58% Discount (엔터잡에듀 ─ 온라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/99</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/99</guid>
-            <pubDate>Fri, 24 Dec 2021 05:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[원대연]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/56baf1cd05eb61a238685322c3828df7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔터테인먼트 주요 직무소개: 신인개발 (캐스팅)58% Discount (엔터잡에듀 ─ 온라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/98</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/98</guid>
-            <pubDate>Fri, 24 Dec 2021 05:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[원대연]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/752e23d15f4b4f315c39e9eae9e4a170.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[면접 합격률 2배 올리는 엔터 면접법50% Discount (엔터잡에듀 ─ 온라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/97</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/97</guid>
-            <pubDate>Fri, 24 Dec 2021 05:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/7edf743d4c70a1f2ffe14512781eb5cc.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[23기] A&R 실무 역량 강화 프로그램25% Discount (엔터잡에듀 ─ 오프라인 클래스)]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/181</link>
@@ -1255,7 +1095,7 @@
             <content:encoded><![CDATA[<div class="mb-3">
       <a href="/video_contents/150">
         <div class="card-shape">
-          <img class="w-100 card-img-top" src="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_67587582-4bcc-4c75-8604-b43f153508cfthumbnail.png.png?X-Amz-Expires=600&amp;X-Amz-Date=20211224T174831Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20211224%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=b848305048923c079e7c196cb694dca597c662733304c5c23baf009673f44f99" alt="Card image cap">
+          <img class="w-100 card-img-top" src="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_67587582-4bcc-4c75-8604-b43f153508cfthumbnail.png.png?X-Amz-Expires=600&amp;X-Amz-Date=20211225T054123Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20211225%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=ff6b513ac9236bfc308e70c98d3800ed53ee22832911bb64ef39bf13d4169bdd" alt="Card image cap">
         </div>
         <div class="py-3">
           <div class="row mx-0 justify-content-between">
@@ -1368,7 +1208,7 @@
             <content:encoded><![CDATA[<div class="mb-3">
       <a href="/video_contents/18">
         <div class="card-shape">
-          <img class="w-100 card-img-top" src="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_e2633db8-1b2a-4c26-a99b-fa126526559e%E1%84%8F%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%8F%E1%85%A9%E1%86%AB_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%91%E1%85%AE%E1%86%AF%E1%84%91%E1%85%A2%E1%84%8F%E1%85%B5%E1%84%8C%E1%85%B5_3x.png.png?X-Amz-Expires=600&amp;X-Amz-Date=20211224T174831Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20211224%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=598871b7371852569d932270a51488996ceb4024ae6e47b0f87e72c96ab375bd" alt="Card image cap">
+          <img class="w-100 card-img-top" src="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_e2633db8-1b2a-4c26-a99b-fa126526559e%E1%84%8F%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%8F%E1%85%A9%E1%86%AB_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%91%E1%85%AE%E1%86%AF%E1%84%91%E1%85%A2%E1%84%8F%E1%85%B5%E1%84%8C%E1%85%B5_3x.png.png?X-Amz-Expires=600&amp;X-Amz-Date=20211225T054123Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20211225%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=aad9e87a6b9c77400aae3cffaf4d238c8b3add3af33b53fec65cb200dc821899" alt="Card image cap">
         </div>
         <div class="py-3">
           <div class="row mx-0 justify-content-between">
@@ -1390,7 +1230,7 @@
             <content:encoded><![CDATA[<div class="mb-3">
       <a href="/video_contents/19">
         <div class="card-shape">
-          <img class="w-100 card-img-top" src="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_85bb0bf3-a83c-421e-a037-cc1bbf39aba2%E1%84%8F%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%8F%E1%85%A9%E1%86%AB_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%86%E1%85%B5%E1%84%81%E1%85%B5%E1%84%89%E1%85%A1%E1%86%BC%E1%84%91%E1%85%AE%E1%86%B7_3x.png.png?X-Amz-Expires=600&amp;X-Amz-Date=20211224T174831Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20211224%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=1b0711469c9de396c17d2c53e72d6ce971c52dc771f9a4973b40e300e8b4f1f2" alt="Card image cap">
+          <img class="w-100 card-img-top" src="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_85bb0bf3-a83c-421e-a037-cc1bbf39aba2%E1%84%8F%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%8F%E1%85%A9%E1%86%AB_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%86%E1%85%B5%E1%84%81%E1%85%B5%E1%84%89%E1%85%A1%E1%86%BC%E1%84%91%E1%85%AE%E1%86%B7_3x.png.png?X-Amz-Expires=600&amp;X-Amz-Date=20211225T054123Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20211225%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=90d425f3bffd195acf2da236a9e3483deb4541e16e2ad6b7fd44fdffb2d0dbd5" alt="Card image cap">
         </div>
         <div class="py-3">
           <div class="row mx-0 justify-content-between">
