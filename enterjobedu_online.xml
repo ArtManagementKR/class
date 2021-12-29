@@ -4,9 +4,17 @@
         <title>엔터잡에듀 ─ 온라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 17:48:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 05:41:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2022 리뉴얼] [입문] 아이돌 기획사의 이해 및 취업 준비 방법25% Discount]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/190</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/190</guid>
+            <pubDate>Wed, 29 Dec 2021 05:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤선미]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/904b5959327151e4dd8932190d7e6fa2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022년 겨울 방학 대비 엔터 취업 만원 특강50% Discount]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/185</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 27 Dec 2021 05:41:12 GMT</pubDate>
             <content:encoded><![CDATA[원대연]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/56baf1cd05eb61a238685322c3828df7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔터테인먼트 주요 직무소개: 신인개발 (캐스팅)58% Discount]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/98</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/98</guid>
-            <pubDate>Mon, 27 Dec 2021 05:41:12 GMT</pubDate>
-            <content:encoded><![CDATA[원대연]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/752e23d15f4b4f315c39e9eae9e4a170.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
