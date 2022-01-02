@@ -4,7 +4,7 @@
         <title>엔터잡에듀 ─ 온라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 05:41:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 17:47:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Fri, 31 Dec 2021 05:40:44 GMT</pubDate>
             <content:encoded><![CDATA[이상환]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/84d67da66c34eaae8be6a505d8dc37e0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시작이 반이다! 7일만에 포트폴리오 ‘시작’하는 온라인스터디]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/183</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/183</guid>
-            <pubDate>Fri, 31 Dec 2021 05:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[윤선미]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/906b5ca8e038cb07bb5ad19bc2a44d73.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[입문] 포트폴리오/과제 작성 전략65% Discount]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Fri, 31 Dec 2021 05:40:44 GMT</pubDate>
             <content:encoded><![CDATA[원대연]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/56baf1cd05eb61a238685322c3828df7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔터테인먼트 주요 직무소개: 신인개발 (캐스팅)58% Discount]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/98</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/98</guid>
+            <pubDate>Sun, 02 Jan 2022 17:47:07 GMT</pubDate>
+            <content:encoded><![CDATA[원대연]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/752e23d15f4b4f315c39e9eae9e4a170.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
