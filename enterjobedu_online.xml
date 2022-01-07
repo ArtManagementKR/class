@@ -4,9 +4,17 @@
         <title>엔터잡에듀 ─ 온라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 17:50:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 05:42:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[A&R 직무특강] 음악으로 글쓰기65% Discount]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/191</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/191</guid>
+            <pubDate>Fri, 07 Jan 2022 05:41:49 GMT</pubDate>
+            <content:encoded><![CDATA[박준우]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/41da2e2a16f4a941de4c3369a1f60316.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[2022 리뉴얼] [입문] 아이돌 기획사의 이해 및 취업 준비 방법25% Discount]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/190</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 31 Dec 2021 05:40:44 GMT</pubDate>
             <content:encoded><![CDATA[원대연]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/56baf1cd05eb61a238685322c3828df7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔터테인먼트 주요 직무소개: 신인개발 (캐스팅)58% Discount]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/98</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/98</guid>
-            <pubDate>Sun, 02 Jan 2022 17:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[원대연]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/752e23d15f4b4f315c39e9eae9e4a170.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
