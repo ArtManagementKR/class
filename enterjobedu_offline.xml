@@ -4,7 +4,7 @@
         <title>엔터잡에듀 ─ 오프라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 05:42:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 17:50:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,30 +54,6 @@
             <pubDate>Fri, 10 Dec 2021 05:40:13 GMT</pubDate>
             <content:encoded><![CDATA[RBW현직자, 이상환]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/fba344613a355c056ef191bc26130f1b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[1회] 국내 정상급 엔터사 퍼블리싱 A&R 현직자의 1:1 컨설팅]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/63</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/63</guid>
-            <pubDate>Sun, 31 Oct 2021 09:59:48 GMT</pubDate>
-            <content:encoded><![CDATA[퍼블리싱 A&amp;R 멘토]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/28c8c054b8a1fc95ce0f2ce84da8353b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[1회] 대형콘텐츠사 공연기획 현직자의 1:1 취업 컨설팅]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/62</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/62</guid>
-            <pubDate>Sun, 31 Oct 2021 09:59:48 GMT</pubDate>
-            <content:encoded><![CDATA[공연기획 멘토]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/46d00d9999d7d7162dfb596492f21db1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[1회] 중대형 기획사 A&R 현직자의 1:1 컨설팅]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/61</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/61</guid>
-            <pubDate>Sun, 31 Oct 2021 09:59:48 GMT</pubDate>
-            <content:encoded><![CDATA[A&amp;R 멘토]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/94e4cc029212bc1ab399fc97b0c0ca3c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
