@@ -4,9 +4,33 @@
         <title>엔터잡에듀 ─ 오프라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 05:42:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 17:51:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔터취업 가보자고💃: 1st 특강 (ZOOM)80% Discount]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/201</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/201</guid>
+            <pubDate>Mon, 10 Jan 2022 17:50:53 GMT</pubDate>
+            <content:encoded><![CDATA[이상환]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/c27abef07cfc371ec914f9136a224713.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[13기] 마케팅 실무 역량 강화 프로그램32% Discount]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/200</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/200</guid>
+            <pubDate>Mon, 10 Jan 2022 17:50:53 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅멘토]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/f5ccfb1d11ee631ba2311cf45b8ddd52.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[ZOOM] 엔터 New 직무 특강: 영화 디지털마케팅80% Discount]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/199</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/199</guid>
+            <pubDate>Mon, 10 Jan 2022 17:50:53 GMT</pubDate>
+            <content:encoded><![CDATA[김지안]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/7611520c01bd8bd7124e56ed9b48eaa7.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[29기] [컨설팅 제외] 이상환 강사의 엔터 취업 한달반33% Discount]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/197</link>
@@ -46,14 +70,6 @@
             <pubDate>Mon, 20 Dec 2021 05:41:14 GMT</pubDate>
             <content:encoded><![CDATA[ALEX KIM]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/b4dea32352ce32fef67bb6125c8e59ea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[3기] RBW X 엔준모 엔터 취업 종합반21% Discount]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/172</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/172</guid>
-            <pubDate>Fri, 10 Dec 2021 05:40:13 GMT</pubDate>
-            <content:encoded><![CDATA[RBW현직자, 이상환]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/fba344613a355c056ef191bc26130f1b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
