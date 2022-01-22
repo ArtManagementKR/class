@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://events.eoeoeo.net/events</id>
     <title>EO ─ 이벤트</title>
-    <updated>2022-01-22T05:39:31.825Z</updated>
+    <updated>2022-01-22T17:41:34.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://events.eoeoeo.net/images/EO_favicon.png</icon>
     <entry>
@@ -13,7 +13,7 @@
         <content type="html"><![CDATA[<div class="mb-3">
       <a href="/video_contents/150">
         <div class="card-shape">
-          <img class="w-100 card-img-top" src="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_67587582-4bcc-4c75-8604-b43f153508cfthumbnail.png.png?X-Amz-Expires=600&amp;X-Amz-Date=20220122T053928Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20220122%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=d9f38cf2bc05cedc54d75d86d6636df1f7b805607d2e9ce6140ff4847d9f0b4e" alt="Card image cap">
+          <img class="w-100 card-img-top" src="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_67587582-4bcc-4c75-8604-b43f153508cfthumbnail.png.png?X-Amz-Expires=600&amp;X-Amz-Date=20220122T174131Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20220122%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=6f122e12f5c3dba48357e497b8adf355854de843ff9449a4a0a1a8972674c1b2" alt="Card image cap">
         </div>
         <div class="py-3">
           <div class="row mx-0 justify-content-between">
@@ -126,7 +126,7 @@
         <content type="html"><![CDATA[<div class="mb-3">
       <a href="/video_contents/18">
         <div class="card-shape">
-          <img class="w-100 card-img-top" src="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_e2633db8-1b2a-4c26-a99b-fa126526559e%E1%84%8F%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%8F%E1%85%A9%E1%86%AB_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%91%E1%85%AE%E1%86%AF%E1%84%91%E1%85%A2%E1%84%8F%E1%85%B5%E1%84%8C%E1%85%B5_3x.png.png?X-Amz-Expires=600&amp;X-Amz-Date=20220122T053928Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20220122%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=f442a8f8a3b059544823c3be2b42ac4cc4982f365fb79a0e7d32e1ba370b49ce" alt="Card image cap">
+          <img class="w-100 card-img-top" src="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_e2633db8-1b2a-4c26-a99b-fa126526559e%E1%84%8F%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%8F%E1%85%A9%E1%86%AB_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%91%E1%85%AE%E1%86%AF%E1%84%91%E1%85%A2%E1%84%8F%E1%85%B5%E1%84%8C%E1%85%B5_3x.png.png?X-Amz-Expires=600&amp;X-Amz-Date=20220122T174131Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20220122%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=8e7ce1c3416e5cc513bc2fea14ecd116ae92b4ad18370146fd7b77a0482e80b5" alt="Card image cap">
         </div>
         <div class="py-3">
           <div class="row mx-0 justify-content-between">
@@ -148,7 +148,7 @@
         <content type="html"><![CDATA[<div class="mb-3">
       <a href="/video_contents/19">
         <div class="card-shape">
-          <img class="w-100 card-img-top" src="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_85bb0bf3-a83c-421e-a037-cc1bbf39aba2%E1%84%8F%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%8F%E1%85%A9%E1%86%AB_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%86%E1%85%B5%E1%84%81%E1%85%B5%E1%84%89%E1%85%A1%E1%86%BC%E1%84%91%E1%85%AE%E1%86%B7_3x.png.png?X-Amz-Expires=600&amp;X-Amz-Date=20220122T053928Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20220122%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=4ace36bd748cf33753181966a3836127660a9a8f7e9b7b1c2f7c69b7be80b6d0" alt="Card image cap">
+          <img class="w-100 card-img-top" src="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_85bb0bf3-a83c-421e-a037-cc1bbf39aba2%E1%84%8F%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%8F%E1%85%A9%E1%86%AB_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%86%E1%85%B5%E1%84%81%E1%85%B5%E1%84%89%E1%85%A1%E1%86%BC%E1%84%91%E1%85%AE%E1%86%B7_3x.png.png?X-Amz-Expires=600&amp;X-Amz-Date=20220122T174131Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20220122%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=3813beddceddee77930440c4f1342b1219891993b2f3ba2518f32169da28ca96" alt="Card image cap">
         </div>
         <div class="py-3">
           <div class="row mx-0 justify-content-between">
