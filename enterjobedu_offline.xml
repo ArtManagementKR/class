@@ -4,7 +4,7 @@
         <title>엔터잡에듀 ─ 오프라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 05:40:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 17:43:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Mon, 10 Jan 2022 17:50:53 GMT</pubDate>
             <content:encoded><![CDATA[마케팅멘토]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/f5ccfb1d11ee631ba2311cf45b8ddd52.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[ZOOM] 엔터 New 직무 특강: 영화 디지털마케팅80% Discount]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/199</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/199</guid>
-            <pubDate>Mon, 10 Jan 2022 17:50:53 GMT</pubDate>
-            <content:encoded><![CDATA[김지안]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/7611520c01bd8bd7124e56ed9b48eaa7.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[29기] [컨설팅 제외] 이상환 강사의 엔터 취업 한달반42% Discount]]></title>
