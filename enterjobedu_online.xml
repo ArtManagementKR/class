@@ -4,9 +4,17 @@
         <title>엔터잡에듀 ─ 온라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 17:43:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 05:40:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔터테인먼트 주요 직무소개: A&R 퍼블리싱56% Discount]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/216</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/216</guid>
+            <pubDate>Fri, 28 Jan 2022 05:39:19 GMT</pubDate>
+            <content:encoded><![CDATA[ALEX KIM]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/000199240f8cfd30075fe24746844d91.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[A&R 직무 부트캠프: 음악 장르의 이해 [4기]60% Discount]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/214</link>
@@ -38,6 +46,14 @@
             <pubDate>Tue, 25 Jan 2022 17:42:45 GMT</pubDate>
             <content:encoded><![CDATA[이상환]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/178ff6d3764817d680b1d67cfc93073d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[입문] 방송/미디어 산업 취업하기60% Discount]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/206</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/206</guid>
+            <pubDate>Fri, 28 Jan 2022 05:39:19 GMT</pubDate>
+            <content:encoded><![CDATA[이상환]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/d7048bd793d4b4b228cc14488b716908.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[음악 장르의 이해75% Discount]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 25 Jan 2022 17:42:45 GMT</pubDate>
             <content:encoded><![CDATA[레나]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/5bc53855d0a8891b038d62f2b073a752.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[외국인 전용] K-POP 4대 기획사 취업하기35% Discount]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/155</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/155</guid>
-            <pubDate>Tue, 25 Jan 2022 17:42:45 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/f4422529fad65e8876019117a57a5d7f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[외국인 전용] 음악산업의 이해72% Discount]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/153</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/153</guid>
-            <pubDate>Tue, 25 Jan 2022 17:42:45 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/558e3fcf25e4437d01c0620d58cc1fe7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
