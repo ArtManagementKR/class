@@ -4,9 +4,17 @@
         <title>엔터잡에듀 ─ 온라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 05:39:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 17:42:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[입문] 2022 엔터테인먼트 채용/취업 전망 및 동향 분석80% Discount]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/219</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/219</guid>
+            <pubDate>Thu, 03 Feb 2022 17:41:42 GMT</pubDate>
+            <content:encoded><![CDATA[이상환]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/c8d5dd90096192fbe2bb5450418c2768.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엔터테인먼트 주요 직무소개: A&R 퍼블리싱56% Discount]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/216</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 25 Jan 2022 17:42:45 GMT</pubDate>
             <content:encoded><![CDATA[이상환]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/f5e49696bba12498490a85b1263b7763.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[📝10대 엔터테인먼트 기업 분석 및 지원동기 작성 전략80% Discount]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/161</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/161</guid>
-            <pubDate>Tue, 25 Jan 2022 17:42:45 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/aae9aa809018d1e13ad7a2772402e741.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
