@@ -4,7 +4,7 @@
         <title>엔터잡에듀 ─ 온라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 17:41:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 05:39:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Tue, 25 Jan 2022 17:42:45 GMT</pubDate>
             <content:encoded><![CDATA[박준우]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/2a025497816f94782612f1755dc75c39.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[✨인턴 채용 연계✨ 포트폴리오/과제 부트캠프 [1기]]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/213</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/213</guid>
-            <pubDate>Wed, 26 Jan 2022 17:42:52 GMT</pubDate>
-            <content:encoded><![CDATA[윤선미]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/7404c12c3f4d32e5893a8fe3c84670d8.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[✨채용 연계✨ 신인개발 부트캠프 [3기]]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Tue, 25 Jan 2022 17:42:45 GMT</pubDate>
             <content:encoded><![CDATA[이채영]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/6c10c5097eed23dc5ba369c149426d57.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국내 대형 음악 엔터테인먼트 산업 조직💼의 이해]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/162</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/162</guid>
+            <pubDate>Mon, 07 Feb 2022 05:39:09 GMT</pubDate>
+            <content:encoded><![CDATA[이상환]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/f5e49696bba12498490a85b1263b7763.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
