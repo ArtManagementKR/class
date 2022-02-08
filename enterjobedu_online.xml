@@ -4,9 +4,17 @@
         <title>엔터잡에듀 ─ 온라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 17:40:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 05:39:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔터테인먼트 주요 직무소개: 팬마케팅(팬매니저)]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/226</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/226</guid>
+            <pubDate>Tue, 08 Feb 2022 05:39:09 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅멘토]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/6f2807f38b1e80eb17f2facf9bacd577.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 1분기 JYP엔터테인먼트 공채 합격전략 패키지(인강+자료집)]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/224</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 25 Jan 2022 17:42:45 GMT</pubDate>
             <content:encoded><![CDATA[이채영]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/6c10c5097eed23dc5ba369c149426d57.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 대형 음악 엔터테인먼트 산업 조직💼의 이해]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/162</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/162</guid>
-            <pubDate>Mon, 07 Feb 2022 05:39:09 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/f5e49696bba12498490a85b1263b7763.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
