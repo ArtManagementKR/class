@@ -4,7 +4,7 @@
         <title>엔터잡에듀 ─ 온라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 05:39:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 17:42:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,14 +70,6 @@
             <pubDate>Fri, 28 Jan 2022 05:39:19 GMT</pubDate>
             <content:encoded><![CDATA[이상환]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/d7048bd793d4b4b228cc14488b716908.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A&R 직무 부트캠프: 음악으로 글쓰기 [1기]]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/202</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/202</guid>
-            <pubDate>Fri, 28 Jan 2022 17:42:18 GMT</pubDate>
-            <content:encoded><![CDATA[박준우]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/fcdff34a31f62397c720c2097ea02ce3.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[음악 장르의 이해]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Tue, 25 Jan 2022 17:42:45 GMT</pubDate>
             <content:encoded><![CDATA[이채영]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/6c10c5097eed23dc5ba369c149426d57.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국내 대형 음악 엔터테인먼트 산업 조직💼의 이해]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/162</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/162</guid>
+            <pubDate>Wed, 09 Feb 2022 17:41:57 GMT</pubDate>
+            <content:encoded><![CDATA[이상환]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/f5e49696bba12498490a85b1263b7763.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
