@@ -4,7 +4,7 @@
         <title>엔터잡에듀 ─ 온라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 17:39:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 05:39:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,22 +38,6 @@
             <pubDate>Fri, 28 Jan 2022 05:39:19 GMT</pubDate>
             <content:encoded><![CDATA[ALEX KIM]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/000199240f8cfd30075fe24746844d91.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A&R 직무 부트캠프: 음악 장르의 이해 [4기]]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/214</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/214</guid>
-            <pubDate>Tue, 25 Jan 2022 17:42:45 GMT</pubDate>
-            <content:encoded><![CDATA[박준우]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/2a025497816f94782612f1755dc75c39.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[✨채용 연계✨ 신인개발 부트캠프 [3기]]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/212</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/212</guid>
-            <pubDate>Tue, 25 Jan 2022 17:42:45 GMT</pubDate>
-            <content:encoded><![CDATA[원대연]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/ae054eee776b5c4b14023f8c3d3f965a.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[2022 리뉴얼] [입문] 엔터테인먼트 업계에서 자주 사용되는 필수 용어/개념 핵심 정리]]></title>
@@ -166,6 +150,22 @@
             <pubDate>Wed, 09 Feb 2022 17:41:57 GMT</pubDate>
             <content:encoded><![CDATA[이상환]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/f5e49696bba12498490a85b1263b7763.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[📝10대 엔터테인먼트 기업 분석 및 지원동기 작성 전략]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/161</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/161</guid>
+            <pubDate>Mon, 14 Feb 2022 05:38:54 GMT</pubDate>
+            <content:encoded><![CDATA[이상환]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/aae9aa809018d1e13ad7a2772402e741.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔터테인먼트 주요 직무소개: 공연기획]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/160</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/160</guid>
+            <pubDate>Mon, 14 Feb 2022 05:38:54 GMT</pubDate>
+            <content:encoded><![CDATA[레나]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/5bc53855d0a8891b038d62f2b073a752.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
