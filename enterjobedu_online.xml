@@ -4,9 +4,17 @@
         <title>엔터잡에듀 ─ 온라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 05:39:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 17:40:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[A&R 직무 부트캠프: 음악으로 글쓰기 [2기]]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/231</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/231</guid>
+            <pubDate>Mon, 14 Feb 2022 17:39:46 GMT</pubDate>
+            <content:encoded><![CDATA[박준우]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/03883921f312f059604ea8c5d74f1afc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엔터테인먼트 주요 직무소개: 팬마케팅(팬매니저)]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/226</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 14 Feb 2022 05:38:54 GMT</pubDate>
             <content:encoded><![CDATA[이상환]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/aae9aa809018d1e13ad7a2772402e741.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔터테인먼트 주요 직무소개: 공연기획]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/160</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/160</guid>
-            <pubDate>Mon, 14 Feb 2022 05:38:54 GMT</pubDate>
-            <content:encoded><![CDATA[레나]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/5bc53855d0a8891b038d62f2b073a752.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
