@@ -4,16 +4,24 @@
         <title>엔터잡에듀 ─ 온라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 17:41:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 05:39:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[A&R 직무 부트캠프: 곡수급+프로덕션 1기]]></title>
+            <title><![CDATA[엔터 직무 부트캠프: 공연기획[1기]]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/235</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/235</guid>
+            <pubDate>Thu, 17 Feb 2022 05:39:07 GMT</pubDate>
+            <content:encoded><![CDATA[레나]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/ea38ad4b6a5aff1502536cb20249fb26.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔터 직무 부트캠프: A&R [6기]]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/234</link>
             <guid>https://www.enterjobedu.co.kr/lecture/234</guid>
             <pubDate>Wed, 16 Feb 2022 17:40:35 GMT</pubDate>
             <content:encoded><![CDATA[KORZ]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/f22d9c6e80ddfca4e92dcd3dde322c5f.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/1d22d802ce065f9e325239226361123e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[A&R 직무 부트캠프: 음악으로 글쓰기 [2기]]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 16 Feb 2022 17:40:35 GMT</pubDate>
             <content:encoded><![CDATA[이채영]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/6c10c5097eed23dc5ba369c149426d57.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 대형 음악 엔터테인먼트 산업 조직💼의 이해]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/162</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/162</guid>
-            <pubDate>Wed, 16 Feb 2022 17:40:35 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/f5e49696bba12498490a85b1263b7763.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

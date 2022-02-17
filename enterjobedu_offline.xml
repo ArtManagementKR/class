@@ -4,7 +4,7 @@
         <title>엔터잡에듀 ─ 오프라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 17:41:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 05:39:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,6 +40,14 @@
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/060efe2a67bae06ba1d5caa879c52b2c.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[3기] 🎧 A&R 입문하기 “A&R 음악 세계를 노크하다”]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/221</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/221</guid>
+            <pubDate>Thu, 17 Feb 2022 05:39:18 GMT</pubDate>
+            <content:encoded><![CDATA[ALEX KIM]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/9c4bf91b4d4157c1457e2b46bd50b0db.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[4기] 대형기획사 출신 현직자의 비주얼 기획 실무역량강화 프로그램]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/220</link>
             <guid>https://www.enterjobedu.co.kr/lecture/220</guid>
@@ -54,14 +62,6 @@
             <pubDate>Tue, 15 Feb 2022 05:39:31 GMT</pubDate>
             <content:encoded><![CDATA[배수정]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/d8441e52b2553504c6a74d98045297d0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2기] 🎧 A&R 입문하기 “A&R 음악 세계를 노크하다”]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/178</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/178</guid>
-            <pubDate>Mon, 20 Dec 2021 05:41:14 GMT</pubDate>
-            <content:encoded><![CDATA[ALEX KIM]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/b4dea32352ce32fef67bb6125c8e59ea.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
