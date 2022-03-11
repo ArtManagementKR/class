@@ -4,16 +4,24 @@
         <title>엔터잡에듀 ─ 오프라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 05:40:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 17:42:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[트렌드 특강: 엔터테인먼트 산업과 NFT (ZOOM)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/238</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/238</guid>
-            <pubDate>Mon, 28 Feb 2022 17:41:56 GMT</pubDate>
-            <content:encoded><![CDATA[Chris]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/a7fe9e08bd7222c6d9f60e1eb07a4bcd.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[31기] [컨설팅 포함] 이상환 강사의 엔터 취업 한달반]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/244</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/244</guid>
+            <pubDate>Fri, 11 Mar 2022 17:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[이상환]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/06144b6e464e14f038d3cac80f156291.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[31기] [컨설팅 제외] 이상환 강사의 엔터 취업 한달반]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/243</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/243</guid>
+            <pubDate>Fri, 11 Mar 2022 17:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[이상환]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/327fabfd4ff22910661cb1fbeaf4f550.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[24기] A&R 실무 역량 강화 프로그램]]></title>
@@ -24,28 +32,12 @@
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/559d9a90e9e03dbd3608183f024a5dba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[30기] [컨설팅 포함] 이상환 강사의 엔터 취업 한달반]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/229</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/229</guid>
-            <pubDate>Wed, 09 Feb 2022 17:42:10 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/0adeed83da789552f55129d081dfe4a0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[3기] 🎧 A&R 입문하기 “A&R 음악 세계를 노크하다”]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/221</link>
             <guid>https://www.enterjobedu.co.kr/lecture/221</guid>
             <pubDate>Thu, 17 Feb 2022 05:39:18 GMT</pubDate>
             <content:encoded><![CDATA[ALEX KIM]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/9c4bf91b4d4157c1457e2b46bd50b0db.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[4기] 대형기획사 출신 현직자의 비주얼 기획 실무역량강화 프로그램]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/220</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/220</guid>
-            <pubDate>Thu, 03 Feb 2022 17:41:54 GMT</pubDate>
-            <content:encoded><![CDATA[ZOO]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/6d5180adaf827bbc58f07af3a4738a8d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
