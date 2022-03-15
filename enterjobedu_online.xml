@@ -4,7 +4,7 @@
         <title>엔터잡에듀 ─ 온라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 17:41:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 05:40:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.enterjobedu.co.kr/lecture/245</guid>
             <pubDate>Mon, 14 Mar 2022 17:41:04 GMT</pubDate>
             <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/4af861f2d5a13daa53e5f3e3cdf77220.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/dc6d290ca14a006dc0ecc04a358e1ac0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엔터 직무 부트캠프: 공연기획[1기]]]></title>
