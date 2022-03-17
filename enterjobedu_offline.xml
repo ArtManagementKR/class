@@ -4,7 +4,7 @@
         <title>엔터잡에듀 ─ 오프라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 05:40:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 17:42:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Thu, 17 Feb 2022 05:39:18 GMT</pubDate>
             <content:encoded><![CDATA[ALEX KIM]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/9c4bf91b4d4157c1457e2b46bd50b0db.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[1회] 중대형 기획사 A&R 현직자의 1:1 컨설팅]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/61</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/61</guid>
+            <pubDate>Thu, 17 Mar 2022 17:42:23 GMT</pubDate>
+            <content:encoded><![CDATA[A&amp;R 멘토]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/94e4cc029212bc1ab399fc97b0c0ca3c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
