@@ -4,7 +4,7 @@
         <title>엔터잡에듀 ─ 온라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 17:43:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 05:41:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Thu, 17 Feb 2022 05:39:07 GMT</pubDate>
             <content:encoded><![CDATA[레나]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/ea38ad4b6a5aff1502536cb20249fb26.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔터 직무 부트캠프: A&R [6기]]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/234</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/234</guid>
-            <pubDate>Wed, 16 Feb 2022 17:40:35 GMT</pubDate>
-            <content:encoded><![CDATA[KORZ]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/1d22d802ce065f9e325239226361123e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엔터테인먼트 주요 직무소개: 팬마케팅(팬매니저)]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Wed, 16 Feb 2022 17:40:35 GMT</pubDate>
             <content:encoded><![CDATA[마케팅멘토]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/5474b64d33905770464b54724fa9838c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방송/미디어 주요 직무 소개: 콘텐츠 마케팅]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/169</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/169</guid>
+            <pubDate>Tue, 22 Mar 2022 05:40:37 GMT</pubDate>
+            <content:encoded><![CDATA[김황욱]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/ea06e9be9b10514ff5b705fdd6d06148.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
