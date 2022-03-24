@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 05:40:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 17:50:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔터 직무 부트캠프: 팬마케팅[1기] (엔터잡에듀 ─ 온라인 클래스)]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/254</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/254</guid>
+            <pubDate>Thu, 24 Mar 2022 17:49:51 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅멘토]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/88ed81753c9f0510cc19cbaa35d9f938.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[A&R 직무 부트캠프: 음악 장르의 이해 [5기] (엔터잡에듀 ─ 온라인 클래스)]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/252</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 16 Feb 2022 17:40:35 GMT</pubDate>
             <content:encoded><![CDATA[마케팅멘토]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/5474b64d33905770464b54724fa9838c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방송/미디어 주요 직무 소개: 콘텐츠 마케팅 (엔터잡에듀 ─ 온라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/169</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/169</guid>
-            <pubDate>Thu, 24 Mar 2022 05:39:40 GMT</pubDate>
-            <content:encoded><![CDATA[김황욱]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/ea06e9be9b10514ff5b705fdd6d06148.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[5기] 대형기획사 출신 현직자의 비주얼 기획 실무역량강화 프로그램 (엔터잡에듀 ─ 오프라인 클래스)]]></title>
@@ -1223,7 +1223,7 @@
             <content:encoded><![CDATA[<div class="mb-3">
       <a href="/video_contents/150">
         <div class="card-shape">
-          <img class="w-100 card-img-top" src="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_67587582-4bcc-4c75-8604-b43f153508cfthumbnail.png.png?X-Amz-Expires=600&amp;X-Amz-Date=20220324T054023Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20220324%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=c45d8a28dd74be7636bdc8593985b205472d38f7e07f43bdc7f3a4fcb315ec08" alt="Card image cap">
+          <img class="w-100 card-img-top" src="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_67587582-4bcc-4c75-8604-b43f153508cfthumbnail.png.png?X-Amz-Expires=600&amp;X-Amz-Date=20220324T175027Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20220324%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=80394de461dccfbc1be54f02374220563047cb80195ca4031ecc46e6a55e329e" alt="Card image cap">
         </div>
         <div class="py-3">
           <div class="row mx-0 justify-content-between">
@@ -1336,7 +1336,7 @@
             <content:encoded><![CDATA[<div class="mb-3">
       <a href="/video_contents/18">
         <div class="card-shape">
-          <img class="w-100 card-img-top" src="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_e2633db8-1b2a-4c26-a99b-fa126526559e%E1%84%8F%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%8F%E1%85%A9%E1%86%AB_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%91%E1%85%AE%E1%86%AF%E1%84%91%E1%85%A2%E1%84%8F%E1%85%B5%E1%84%8C%E1%85%B5_3x.png.png?X-Amz-Expires=600&amp;X-Amz-Date=20220324T054023Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20220324%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=d73ba5418dd6b445c448ca2f4dec7512584ed4334ecd7a2aacc18d603851042c" alt="Card image cap">
+          <img class="w-100 card-img-top" src="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_e2633db8-1b2a-4c26-a99b-fa126526559e%E1%84%8F%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%8F%E1%85%A9%E1%86%AB_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%91%E1%85%AE%E1%86%AF%E1%84%91%E1%85%A2%E1%84%8F%E1%85%B5%E1%84%8C%E1%85%B5_3x.png.png?X-Amz-Expires=600&amp;X-Amz-Date=20220324T175027Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20220324%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=2798f3a623e1e380a525f37e8b3bbe7b19fd1bd4a9e77727eab922d38ba6adde" alt="Card image cap">
         </div>
         <div class="py-3">
           <div class="row mx-0 justify-content-between">
@@ -1358,7 +1358,7 @@
             <content:encoded><![CDATA[<div class="mb-3">
       <a href="/video_contents/19">
         <div class="card-shape">
-          <img class="w-100 card-img-top" src="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_85bb0bf3-a83c-421e-a037-cc1bbf39aba2%E1%84%8F%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%8F%E1%85%A9%E1%86%AB_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%86%E1%85%B5%E1%84%81%E1%85%B5%E1%84%89%E1%85%A1%E1%86%BC%E1%84%91%E1%85%AE%E1%86%B7_3x.png.png?X-Amz-Expires=600&amp;X-Amz-Date=20220324T054023Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20220324%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=36e8b394cbd3ddaf9a62841312c8338c281bfbe515282e69fe7339127d47e1f8" alt="Card image cap">
+          <img class="w-100 card-img-top" src="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_85bb0bf3-a83c-421e-a037-cc1bbf39aba2%E1%84%8F%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%8F%E1%85%A9%E1%86%AB_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%86%E1%85%B5%E1%84%81%E1%85%B5%E1%84%89%E1%85%A1%E1%86%BC%E1%84%91%E1%85%AE%E1%86%B7_3x.png.png?X-Amz-Expires=600&amp;X-Amz-Date=20220324T175027Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20220324%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=88652705a8148ccfe302f98240a75e92263358d126d9d5034f634ca31047453b" alt="Card image cap">
         </div>
         <div class="py-3">
           <div class="row mx-0 justify-content-between">
@@ -1371,27 +1371,6 @@
           </div>
         </div>
 </a>    </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[IT 테크 스타트업 개발 리드 TALK SHOW - 매스프레소,버즈빌,잔디 (EO ─ 이벤트)]]></title>
-            <link>https://events.eoeoeo.net/events/7</link>
-            <guid>https://events.eoeoeo.net/events/7</guid>
-            <pubDate>Sat, 04 Dec 2021 13:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 04. 26 ~ 2021. 04. 26]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[요즘 뜨는 스타트업에게 무엇이든 물어보세요! (EO ─ 이벤트)]]></title>
-            <link>https://events.eoeoeo.net/events/4</link>
-            <guid>https://events.eoeoeo.net/events/4</guid>
-            <pubDate>Sat, 04 Dec 2021 13:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 03. 12 ~ 2021. 03. 14]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[No.1 액티비티 플랫폼 프립에 대한 모든 것을 물어보세요! (EO ─ 이벤트)]]></title>
-            <link>https://events.eoeoeo.net/events/3</link>
-            <guid>https://events.eoeoeo.net/events/3</guid>
-            <pubDate>Sat, 04 Dec 2021 13:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 03. 10 ~ 2021. 03. 12]]></content:encoded>
         </item>
     </channel>
 </rss>
