@@ -4,9 +4,25 @@
         <title>엔터잡에듀 ─ 오프라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 17:44:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 05:41:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[32기] [컨설팅 제외] 이상환 강사의 엔터 취업 한달반]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/257</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/257</guid>
+            <pubDate>Wed, 06 Apr 2022 05:40:27 GMT</pubDate>
+            <content:encoded><![CDATA[이상환]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/a8e8f999c2c7038766f0a9e523ca3205.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[32기] [컨설팅 포함] 이상환 강사의 엔터 취업 한달반]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/256</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/256</guid>
+            <pubDate>Wed, 06 Apr 2022 05:40:27 GMT</pubDate>
+            <content:encoded><![CDATA[이상환]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/6f94ad521c38c4f70c5b137d0331626d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[5기] 대형기획사 출신 현직자의 비주얼 기획 실무역량강화 프로그램]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/248</link>
