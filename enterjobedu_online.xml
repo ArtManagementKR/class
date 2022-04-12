@@ -4,9 +4,17 @@
         <title>엔터잡에듀 ─ 온라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 05:40:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 17:47:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔터 직무 부트캠프: 아티스트 기획[1기]]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/262</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/262</guid>
+            <pubDate>Tue, 12 Apr 2022 17:46:28 GMT</pubDate>
+            <content:encoded><![CDATA[윤선미]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/de25f3d17031f1c9d87ed0b427d2e07b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화 디지털 마케팅 온라인스터디 [1기]]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/258</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 11 Apr 2022 17:44:56 GMT</pubDate>
             <content:encoded><![CDATA[김황욱]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/ea06e9be9b10514ff5b705fdd6d06148.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔터테인먼트 주요 직무소개: 영상제작]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/168</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/168</guid>
-            <pubDate>Tue, 12 Apr 2022 05:40:10 GMT</pubDate>
-            <content:encoded><![CDATA[이채영]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/6c10c5097eed23dc5ba369c149426d57.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
