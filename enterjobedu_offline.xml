@@ -4,7 +4,7 @@
         <title>엔터잡에듀 ─ 오프라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 17:47:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 05:41:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Mon, 14 Mar 2022 17:41:15 GMT</pubDate>
             <content:encoded><![CDATA[ZOO]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/93252ecfdd22ac211cc3674f82809631.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[31기] [컨설팅 포함] 이상환 강사의 엔터 취업 한달반]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/244</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/244</guid>
-            <pubDate>Tue, 12 Apr 2022 05:40:20 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/06144b6e464e14f038d3cac80f156291.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[3기] 🎧 A&R 입문하기 “A&R 음악 세계를 노크하다”]]></title>
