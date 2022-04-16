@@ -4,9 +4,17 @@
         <title>엔터잡에듀 ─ 오프라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Apr 2022 05:40:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 17:43:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[5기] 대형기획사 출신 현직자의 비주얼 기획 실무역량강화 프로그램 (추가결제용)]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/264</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/264</guid>
+            <pubDate>Sat, 16 Apr 2022 17:42:26 GMT</pubDate>
+            <content:encoded><![CDATA[ZOO]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/e92d77cd5359a5603f3af6a295ef94d2.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[🔥CJ ENM 최종합격자 55명 배출! 이상환 코치의 CJ ENM 인적성 대비 전략 특강]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/263</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 07 Apr 2022 17:43:36 GMT</pubDate>
             <content:encoded><![CDATA[배수정]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/a32409e2e1e597058e5c0d9613d8ad8d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[5기] 대형기획사 출신 현직자의 비주얼 기획 실무역량강화 프로그램]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/248</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/248</guid>
-            <pubDate>Mon, 14 Mar 2022 17:41:15 GMT</pubDate>
-            <content:encoded><![CDATA[ZOO]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/93252ecfdd22ac211cc3674f82809631.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[3기] 🎧 A&R 입문하기 “A&R 음악 세계를 노크하다”]]></title>
