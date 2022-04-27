@@ -4,9 +4,17 @@
         <title>엔터잡에듀 ─ 오프라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 05:48:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 17:49:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[前 카카오엔터 현직자의 기획/마케팅 실무역량강화 1기]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/268</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/268</guid>
+            <pubDate>Wed, 27 Apr 2022 17:49:14 GMT</pubDate>
+            <content:encoded><![CDATA[Grace]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/c142dfa53f74e4e9550e23c4580d50d4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[6기] 대형기획사 출신 현직자의 비주얼 기획 실무역량강화 프로그램]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/267</link>
