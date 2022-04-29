@@ -4,9 +4,17 @@
         <title>엔터잡에듀 ─ 오프라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 17:45:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 05:44:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[무료특강] SBS PD & Seezn 콘텐츠 기획자의 "다정하고 무해한 취업상담소"]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/270</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/270</guid>
+            <pubDate>Fri, 29 Apr 2022 05:43:34 GMT</pubDate>
+            <content:encoded><![CDATA[채한얼, 옥성아]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/07771c320dc1a0501e08f993f88d7012.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[前 카카오엔터 현직자의 기획/마케팅 실무역량강화 1기]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/268</link>
