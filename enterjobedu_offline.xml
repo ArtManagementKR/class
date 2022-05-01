@@ -4,7 +4,7 @@
         <title>엔터잡에듀 ─ 오프라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 05:44:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 17:44:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Wed, 20 Apr 2022 17:48:46 GMT</pubDate>
             <content:encoded><![CDATA[ALEX KIM]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/9c4bf91b4d4157c1457e2b46bd50b0db.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[컨설팅 추가 결제]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/205</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/205</guid>
+            <pubDate>Sun, 01 May 2022 17:44:11 GMT</pubDate>
+            <content:encoded><![CDATA[이상환]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/d2f3afb7ef37ece022c690c0f0e69612.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
