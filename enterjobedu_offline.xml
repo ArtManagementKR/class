@@ -4,7 +4,7 @@
         <title>엔터잡에듀 ─ 오프라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 05:44:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 17:50:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Tue, 26 Apr 2022 05:42:35 GMT</pubDate>
             <content:encoded><![CDATA[ZOO]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/5a87211a9f8d80136eaa84d5c96053dc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔터취업 가보자고💃: 엔터취업 서류합격 스펙분석 (ZOOM)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/259</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/259</guid>
-            <pubDate>Wed, 20 Apr 2022 17:48:46 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/03d910da65bf70a13328ed412540ad9e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[32기] [컨설팅 제외] 이상환 강사의 엔터 취업 한달반]]></title>
