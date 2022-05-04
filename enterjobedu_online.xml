@@ -4,9 +4,17 @@
         <title>엔터잡에듀 ─ 온라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 17:50:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 05:44:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2022 리뉴얼] 엔터취업 서류합격 스펙분석]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/276</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/276</guid>
+            <pubDate>Wed, 04 May 2022 05:43:26 GMT</pubDate>
+            <content:encoded><![CDATA[이상환]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/495451e8b017fd3b3a5ca3b4a9bfe986.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엔터 직무 부트캠프 : 영상제작 [1기]]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/275</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 20 Apr 2022 17:48:34 GMT</pubDate>
             <content:encoded><![CDATA[심희진]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/e4656411c6da7200554011bafb993589.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔터테인먼트 주요 직무소개: 마케팅(음반/음원)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/170</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/170</guid>
-            <pubDate>Wed, 20 Apr 2022 17:48:34 GMT</pubDate>
-            <content:encoded><![CDATA[마케팅멘토]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/5474b64d33905770464b54724fa9838c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
