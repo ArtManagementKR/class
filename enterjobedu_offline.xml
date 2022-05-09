@@ -4,7 +4,7 @@
         <title>엔터잡에듀 ─ 오프라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 05:44:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 17:48:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Mon, 09 May 2022 05:44:17 GMT</pubDate>
             <content:encoded><![CDATA[ALEX KIM]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/f88832c7082c6fcbb391a80954dcbb35.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🔥CJ ENM 인적성 발표! 이상환 코치의 CJ ENM 면접 대비 전략 특강]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/277</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/277</guid>
-            <pubDate>Wed, 04 May 2022 17:49:33 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/ce40a4a41d7d7ec76c386ac5d3870055.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[무료특강] SBS PD & seezn 콘텐츠기획자의 "다정하고 무해한 취업상담소"]]></title>
