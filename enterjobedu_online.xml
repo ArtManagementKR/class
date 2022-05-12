@@ -4,7 +4,7 @@
         <title>엔터잡에듀 ─ 온라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 05:48:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 17:49:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.enterjobedu.co.kr/lecture/283</guid>
             <pubDate>Wed, 11 May 2022 05:48:23 GMT</pubDate>
             <content:encoded><![CDATA[김지안]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/8f076e4bfd999560e36e15e31fa29e3b.png" length="0" type="image/png"/>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/c29471fa9d62e7aa1d7ce9eba8f6992e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022 리뉴얼] 엔터취업 서류합격 스펙분석]]></title>
