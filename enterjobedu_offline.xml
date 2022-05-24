@@ -4,9 +4,17 @@
         <title>엔터잡에듀 ─ 오프라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 17:49:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 02:36:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[26기] A&R 실무 역량 강화 프로그램]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/286</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/286</guid>
+            <pubDate>Tue, 24 May 2022 02:35:48 GMT</pubDate>
+            <content:encoded><![CDATA[배수정]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/ef076bda0c00cb298a0969e690f52e2b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[33기] [컨설팅 제외] 이상환 강사의 엔터 취업 한달반]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/280</link>
@@ -29,15 +37,7 @@
             <guid>https://www.enterjobedu.co.kr/lecture/278</guid>
             <pubDate>Mon, 09 May 2022 05:44:17 GMT</pubDate>
             <content:encoded><![CDATA[ALEX KIM]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/f88832c7082c6fcbb391a80954dcbb35.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[무료특강] SBS PD & seezn 콘텐츠기획자의 "다정하고 무해한 취업상담소"]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/270</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/270</guid>
-            <pubDate>Fri, 29 Apr 2022 05:43:34 GMT</pubDate>
-            <content:encoded><![CDATA[채한얼, 옥성아]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/978db0f8f153cc6214126586077d975f.png" length="0" type="image/png"/>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/2ed94926aacc2ba7b8c90cfd74987dd3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[6기] 대형기획사 출신 현직자의 비주얼 기획 실무역량강화 프로그램]]></title>
@@ -46,14 +46,6 @@
             <pubDate>Tue, 26 Apr 2022 05:42:35 GMT</pubDate>
             <content:encoded><![CDATA[ZOO]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/5a87211a9f8d80136eaa84d5c96053dc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[25기] A&R 실무 역량 강화 프로그램]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/255</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/255</guid>
-            <pubDate>Wed, 20 Apr 2022 17:48:46 GMT</pubDate>
-            <content:encoded><![CDATA[배수정]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/a32409e2e1e597058e5c0d9613d8ad8d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

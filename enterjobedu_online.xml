@@ -4,17 +4,9 @@
         <title>엔터잡에듀 ─ 온라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 17:49:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 02:36:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[영화 디지털 마케팅 온라인스터디 [2기]]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/283</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/283</guid>
-            <pubDate>Wed, 11 May 2022 05:48:23 GMT</pubDate>
-            <content:encoded><![CDATA[김지안]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/c29471fa9d62e7aa1d7ce9eba8f6992e.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[2022 리뉴얼] 엔터취업 서류합격 스펙분석]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/276</link>
@@ -22,30 +14,6 @@
             <pubDate>Wed, 04 May 2022 05:43:26 GMT</pubDate>
             <content:encoded><![CDATA[이상환]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/865088034ec3fa3d42c7270194a899e0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔터 직무 부트캠프 : 영상제작 [1기]]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/275</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/275</guid>
-            <pubDate>Tue, 03 May 2022 17:50:12 GMT</pubDate>
-            <content:encoded><![CDATA[이채영]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/accde01f2806f44d2728c60eb6a61a87.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방송/미디어 직무 부트캠프: 콘텐츠 마케팅 [1기]]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/274</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/274</guid>
-            <pubDate>Tue, 03 May 2022 17:50:12 GMT</pubDate>
-            <content:encoded><![CDATA[김황욱]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/2a7fc527a661a745999aab7c8bef73e8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A&R 직무 부트캠프: 음악으로 글쓰기 [3기]]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/271</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/271</guid>
-            <pubDate>Mon, 02 May 2022 05:50:09 GMT</pubDate>
-            <content:encoded><![CDATA[박준우]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/a61a105ae61b8907ad7fd524191350eb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 2분기 JYP엔터테인먼트 공채 합격전략 패키지(인강+자료집)]]></title>
@@ -69,7 +37,7 @@
             <guid>https://www.enterjobedu.co.kr/lecture/226</guid>
             <pubDate>Wed, 20 Apr 2022 17:48:34 GMT</pubDate>
             <content:encoded><![CDATA[마케팅멘토]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/6f2807f38b1e80eb17f2facf9bacd577.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/4963272fec3329518364f803457d1caf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022 리뉴얼] YG Ent. / YG PLUS 채용 합격 전략]]></title>
@@ -85,7 +53,7 @@
             <guid>https://www.enterjobedu.co.kr/lecture/219</guid>
             <pubDate>Wed, 20 Apr 2022 17:48:34 GMT</pubDate>
             <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/c8d5dd90096192fbe2bb5450418c2768.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/0a144b7214f4a228a8a5ce124c12e131.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엔터테인먼트 주요 직무소개: A&R 퍼블리싱]]></title>
@@ -117,7 +85,7 @@
             <guid>https://www.enterjobedu.co.kr/lecture/198</guid>
             <pubDate>Wed, 20 Apr 2022 17:48:34 GMT</pubDate>
             <content:encoded><![CDATA[박준우]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/e863d5d2e69bcebbff513b3cad595883.png" length="0" type="image/png"/>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/5feb4bf46fffbd95f679e28020439543.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[A&R 직무특강] 음악으로 글쓰기]]></title>
@@ -133,7 +101,7 @@
             <guid>https://www.enterjobedu.co.kr/lecture/190</guid>
             <pubDate>Wed, 20 Apr 2022 17:48:34 GMT</pubDate>
             <content:encoded><![CDATA[윤선미]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/904b5959327151e4dd8932190d7e6fa2.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/e1f4036071c0971eb576f7623af73e67.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년 겨울 방학 대비 엔터 취업 만원 특강]]></title>
@@ -166,6 +134,38 @@
             <pubDate>Wed, 20 Apr 2022 17:48:34 GMT</pubDate>
             <content:encoded><![CDATA[이상환]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/da53423ccf4b44b3664e42f2d593d195.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔터테인먼트 주요 직무 소개: 음악유통(온/오프)]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/171</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/171</guid>
+            <pubDate>Tue, 24 May 2022 02:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[심희진]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/e4656411c6da7200554011bafb993589.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔터테인먼트 주요 직무소개: 마케팅(음반/음원)]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/170</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/170</guid>
+            <pubDate>Tue, 24 May 2022 02:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅멘토]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/5474b64d33905770464b54724fa9838c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방송/미디어 주요 직무 소개: 콘텐츠 마케팅]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/169</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/169</guid>
+            <pubDate>Tue, 24 May 2022 02:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[김황욱]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/ea06e9be9b10514ff5b705fdd6d06148.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔터테인먼트 주요 직무소개: 영상제작]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/168</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/168</guid>
+            <pubDate>Tue, 24 May 2022 02:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[이채영]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/6c10c5097eed23dc5ba369c149426d57.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 17:49:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 02:36:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[영화 디지털 마케팅 온라인스터디 [2기] (엔터잡에듀 ─ 온라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/283</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/283</guid>
-            <pubDate>Wed, 11 May 2022 05:48:23 GMT</pubDate>
-            <content:encoded><![CDATA[김지안]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/c29471fa9d62e7aa1d7ce9eba8f6992e.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[2022 리뉴얼] 엔터취업 서류합격 스펙분석 (엔터잡에듀 ─ 온라인 클래스)]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/276</link>
@@ -22,30 +14,6 @@
             <pubDate>Wed, 04 May 2022 05:43:26 GMT</pubDate>
             <content:encoded><![CDATA[이상환]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/865088034ec3fa3d42c7270194a899e0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔터 직무 부트캠프 : 영상제작 [1기] (엔터잡에듀 ─ 온라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/275</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/275</guid>
-            <pubDate>Tue, 03 May 2022 17:50:12 GMT</pubDate>
-            <content:encoded><![CDATA[이채영]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/accde01f2806f44d2728c60eb6a61a87.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방송/미디어 직무 부트캠프: 콘텐츠 마케팅 [1기] (엔터잡에듀 ─ 온라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/274</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/274</guid>
-            <pubDate>Tue, 03 May 2022 17:50:12 GMT</pubDate>
-            <content:encoded><![CDATA[김황욱]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/2a7fc527a661a745999aab7c8bef73e8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A&R 직무 부트캠프: 음악으로 글쓰기 [3기] (엔터잡에듀 ─ 온라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/271</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/271</guid>
-            <pubDate>Mon, 02 May 2022 05:50:09 GMT</pubDate>
-            <content:encoded><![CDATA[박준우]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/a61a105ae61b8907ad7fd524191350eb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 2분기 JYP엔터테인먼트 공채 합격전략 패키지(인강+자료집) (엔터잡에듀 ─ 온라인 클래스)]]></title>
@@ -69,7 +37,7 @@
             <guid>https://www.enterjobedu.co.kr/lecture/226</guid>
             <pubDate>Wed, 20 Apr 2022 17:48:34 GMT</pubDate>
             <content:encoded><![CDATA[마케팅멘토]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/6f2807f38b1e80eb17f2facf9bacd577.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/4963272fec3329518364f803457d1caf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022 리뉴얼] YG Ent. / YG PLUS 채용 합격 전략 (엔터잡에듀 ─ 온라인 클래스)]]></title>
@@ -85,7 +53,7 @@
             <guid>https://www.enterjobedu.co.kr/lecture/219</guid>
             <pubDate>Wed, 20 Apr 2022 17:48:34 GMT</pubDate>
             <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/c8d5dd90096192fbe2bb5450418c2768.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/0a144b7214f4a228a8a5ce124c12e131.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엔터테인먼트 주요 직무소개: A&R 퍼블리싱 (엔터잡에듀 ─ 온라인 클래스)]]></title>
@@ -117,7 +85,7 @@
             <guid>https://www.enterjobedu.co.kr/lecture/198</guid>
             <pubDate>Wed, 20 Apr 2022 17:48:34 GMT</pubDate>
             <content:encoded><![CDATA[박준우]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/e863d5d2e69bcebbff513b3cad595883.png" length="0" type="image/png"/>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/5feb4bf46fffbd95f679e28020439543.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[A&R 직무특강] 음악으로 글쓰기 (엔터잡에듀 ─ 온라인 클래스)]]></title>
@@ -133,7 +101,7 @@
             <guid>https://www.enterjobedu.co.kr/lecture/190</guid>
             <pubDate>Wed, 20 Apr 2022 17:48:34 GMT</pubDate>
             <content:encoded><![CDATA[윤선미]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/904b5959327151e4dd8932190d7e6fa2.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/e1f4036071c0971eb576f7623af73e67.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년 겨울 방학 대비 엔터 취업 만원 특강 (엔터잡에듀 ─ 온라인 클래스)]]></title>
@@ -168,6 +136,46 @@
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/da53423ccf4b44b3664e42f2d593d195.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[엔터테인먼트 주요 직무 소개: 음악유통(온/오프) (엔터잡에듀 ─ 온라인 클래스)]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/171</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/171</guid>
+            <pubDate>Tue, 24 May 2022 02:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[심희진]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/e4656411c6da7200554011bafb993589.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔터테인먼트 주요 직무소개: 마케팅(음반/음원) (엔터잡에듀 ─ 온라인 클래스)]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/170</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/170</guid>
+            <pubDate>Tue, 24 May 2022 02:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅멘토]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/5474b64d33905770464b54724fa9838c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방송/미디어 주요 직무 소개: 콘텐츠 마케팅 (엔터잡에듀 ─ 온라인 클래스)]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/169</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/169</guid>
+            <pubDate>Tue, 24 May 2022 02:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[김황욱]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/ea06e9be9b10514ff5b705fdd6d06148.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔터테인먼트 주요 직무소개: 영상제작 (엔터잡에듀 ─ 온라인 클래스)]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/168</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/168</guid>
+            <pubDate>Tue, 24 May 2022 02:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[이채영]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/6c10c5097eed23dc5ba369c149426d57.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[26기] A&R 실무 역량 강화 프로그램 (엔터잡에듀 ─ 오프라인 클래스)]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/286</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/286</guid>
+            <pubDate>Tue, 24 May 2022 02:35:48 GMT</pubDate>
+            <content:encoded><![CDATA[배수정]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/ef076bda0c00cb298a0969e690f52e2b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[33기] [컨설팅 제외] 이상환 강사의 엔터 취업 한달반 (엔터잡에듀 ─ 오프라인 클래스)]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/280</link>
             <guid>https://www.enterjobedu.co.kr/lecture/280</guid>
@@ -189,15 +197,7 @@
             <guid>https://www.enterjobedu.co.kr/lecture/278</guid>
             <pubDate>Mon, 09 May 2022 05:44:17 GMT</pubDate>
             <content:encoded><![CDATA[ALEX KIM]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/f88832c7082c6fcbb391a80954dcbb35.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[무료특강] SBS PD & seezn 콘텐츠기획자의 "다정하고 무해한 취업상담소" (엔터잡에듀 ─ 오프라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/270</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/270</guid>
-            <pubDate>Fri, 29 Apr 2022 05:43:34 GMT</pubDate>
-            <content:encoded><![CDATA[채한얼, 옥성아]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/978db0f8f153cc6214126586077d975f.png" length="0" type="image/png"/>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/2ed94926aacc2ba7b8c90cfd74987dd3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[6기] 대형기획사 출신 현직자의 비주얼 기획 실무역량강화 프로그램 (엔터잡에듀 ─ 오프라인 클래스)]]></title>
@@ -206,14 +206,6 @@
             <pubDate>Tue, 26 Apr 2022 05:42:35 GMT</pubDate>
             <content:encoded><![CDATA[ZOO]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/5a87211a9f8d80136eaa84d5c96053dc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[25기] A&R 실무 역량 강화 프로그램 (엔터잡에듀 ─ 오프라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/255</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/255</guid>
-            <pubDate>Wed, 20 Apr 2022 17:48:46 GMT</pubDate>
-            <content:encoded><![CDATA[배수정]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/a32409e2e1e597058e5c0d9613d8ad8d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[0에서 시작하는 수제포스터 (STACCATOH ─ Program)]]></title>
@@ -1231,7 +1223,7 @@
             <content:encoded><![CDATA[<div class="mb-3">
       <a href="/video_contents/150">
         <div class="card-shape">
-          <img class="w-100 card-img-top" src="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_67587582-4bcc-4c75-8604-b43f153508cfthumbnail.png.png?X-Amz-Expires=600&amp;X-Amz-Date=20220512T174943Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20220512%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=88e63a3a52398571d228b7a3d998e2007237df58e0741ac08f124dd9260740fd" alt="Card image cap">
+          <img class="w-100 card-img-top" src="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_67587582-4bcc-4c75-8604-b43f153508cfthumbnail.png.png?X-Amz-Expires=600&amp;X-Amz-Date=20220524T023616Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20220524%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=2a9f40b10ee04cc50561534caede39b664c346beb3ced7c9dac6c09de22ea6bd" alt="Card image cap">
         </div>
         <div class="py-3">
           <div class="row mx-0 justify-content-between">
@@ -1339,7 +1331,7 @@
             <content:encoded><![CDATA[<div class="mb-3">
       <a href="/video_contents/18">
         <div class="card-shape">
-          <img class="w-100 card-img-top" src="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_e2633db8-1b2a-4c26-a99b-fa126526559e%E1%84%8F%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%8F%E1%85%A9%E1%86%AB_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%91%E1%85%AE%E1%86%AF%E1%84%91%E1%85%A2%E1%84%8F%E1%85%B5%E1%84%8C%E1%85%B5_3x.png.png?X-Amz-Expires=600&amp;X-Amz-Date=20220512T174943Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20220512%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=52b2afa840f5364538f5e228497b15f9eac24a16d512030f3d24c22f0fd6946b" alt="Card image cap">
+          <img class="w-100 card-img-top" src="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_e2633db8-1b2a-4c26-a99b-fa126526559e%E1%84%8F%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%8F%E1%85%A9%E1%86%AB_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%91%E1%85%AE%E1%86%AF%E1%84%91%E1%85%A2%E1%84%8F%E1%85%B5%E1%84%8C%E1%85%B5_3x.png.png?X-Amz-Expires=600&amp;X-Amz-Date=20220524T023616Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20220524%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=995ada5363560ad57e8238ed41b8c99d1d7f4632c138c81b8e29c9ef47806336" alt="Card image cap">
         </div>
         <div class="py-3">
           <div class="row mx-0 justify-content-between">
@@ -1363,7 +1355,7 @@
             <content:encoded><![CDATA[<div class="mb-3">
       <a href="/video_contents/19">
         <div class="card-shape">
-          <img class="w-100 card-img-top" src="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_85bb0bf3-a83c-421e-a037-cc1bbf39aba2%E1%84%8F%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%8F%E1%85%A9%E1%86%AB_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%86%E1%85%B5%E1%84%81%E1%85%B5%E1%84%89%E1%85%A1%E1%86%BC%E1%84%91%E1%85%AE%E1%86%B7_3x.png.png?X-Amz-Expires=600&amp;X-Amz-Date=20220512T174943Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20220512%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=703f3b90c6203ee8f9d3d3a96abd096d99942dd0e3c8e219ea2edea24f1ff646" alt="Card image cap">
+          <img class="w-100 card-img-top" src="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_85bb0bf3-a83c-421e-a037-cc1bbf39aba2%E1%84%8F%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%8F%E1%85%A9%E1%86%AB_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%86%E1%85%B5%E1%84%81%E1%85%B5%E1%84%89%E1%85%A1%E1%86%BC%E1%84%91%E1%85%AE%E1%86%B7_3x.png.png?X-Amz-Expires=600&amp;X-Amz-Date=20220524T023616Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20220524%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=94fcf3d97c21c5d5690504ade797fac8c0faa1eefdace76d79aa8e259aa4d66c" alt="Card image cap">
         </div>
         <div class="py-3">
           <div class="row mx-0 justify-content-between">
