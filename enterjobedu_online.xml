@@ -4,9 +4,17 @@
         <title>엔터잡에듀 ─ 온라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 05:41:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 17:42:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 2분기 SM 공채합격전략 패키지(강의+자료집)]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/288</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/288</guid>
+            <pubDate>Fri, 03 Jun 2022 17:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[이상환]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/27b746544955e6bf4da2eea240cc9256.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[2022 리뉴얼] 엔터취업 서류합격 스펙분석]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/276</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 20 Apr 2022 17:48:34 GMT</pubDate>
             <content:encoded><![CDATA[이상환]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/9d95ed525c11fcd4530e62cd5c5651b7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 4분기 SM 서류 합격 전략 온라인 패키지]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/173</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/173</guid>
-            <pubDate>Wed, 20 Apr 2022 17:48:34 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/da53423ccf4b44b3664e42f2d593d195.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엔터테인먼트 주요 직무 소개: 음악유통(온/오프)]]></title>
