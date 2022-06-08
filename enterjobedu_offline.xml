@@ -4,7 +4,7 @@
         <title>엔터잡에듀 ─ 오프라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 05:41:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 17:44:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,22 +30,6 @@
             <pubDate>Tue, 24 May 2022 02:35:48 GMT</pubDate>
             <content:encoded><![CDATA[배수정]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/ef076bda0c00cb298a0969e690f52e2b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[33기] [컨설팅 제외] 이상환 강사의 엔터 취업 한달반]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/280</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/280</guid>
-            <pubDate>Mon, 09 May 2022 05:44:17 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/db8f02f7bbaa293092801cee65c09cd3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[33기] [컨설팅 포함] 이상환 강사의 엔터 취업 한달반]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/279</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/279</guid>
-            <pubDate>Mon, 09 May 2022 05:44:17 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/0fdcf1d109ab28640214cc63d6f4da46.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[4기] 🎧 A&R 입문하기 “A&R 음악 세계를 노크하다”]]></title>
