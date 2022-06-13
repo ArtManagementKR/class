@@ -4,9 +4,33 @@
         <title>엔터잡에듀 ─ 온라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 17:41:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 05:44:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[A&R 직무 부트캠프: 음악으로 글쓰기 [4기]]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/300</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/300</guid>
+            <pubDate>Mon, 13 Jun 2022 05:43:51 GMT</pubDate>
+            <content:encoded><![CDATA[박준우]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/200e8e429d0ec98c4a6c88ed29172bbd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A&R 직무 부트캠프: 음악으로 글쓰기 [5기]]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/296</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/296</guid>
+            <pubDate>Mon, 13 Jun 2022 05:43:51 GMT</pubDate>
+            <content:encoded><![CDATA[박준우]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/dbb73576a47d92e955a59f1c90c6d21d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[랜선사수가 알려주는 엔터사 A&R 업무의 모든 것]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/293</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/293</guid>
+            <pubDate>Mon, 13 Jun 2022 05:43:51 GMT</pubDate>
+            <content:encoded><![CDATA[우주]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/76b3455ff81fdf55c6a4828a95fa47eb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[⭐선착순10명 한정⭐2022 2분기 SM 공채합격전략 첨삭패키지]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/289</link>
@@ -142,30 +166,6 @@
             <pubDate>Wed, 20 Apr 2022 17:48:34 GMT</pubDate>
             <content:encoded><![CDATA[윤선미]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/d378801cf18597d324e53e74aa862955.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2022 리뉴얼] 드림메이커 수시 채용 대비 직무 핵심 분석]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/174</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/174</guid>
-            <pubDate>Wed, 20 Apr 2022 17:48:34 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/9d95ed525c11fcd4530e62cd5c5651b7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔터테인먼트 주요 직무 소개: 음악유통(온/오프)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/171</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/171</guid>
-            <pubDate>Tue, 24 May 2022 02:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[심희진]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/e4656411c6da7200554011bafb993589.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔터테인먼트 주요 직무소개: 마케팅(음반/음원)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/170</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/170</guid>
-            <pubDate>Tue, 24 May 2022 02:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[마케팅멘토]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/5474b64d33905770464b54724fa9838c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
