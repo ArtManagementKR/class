@@ -4,7 +4,7 @@
         <title>엔터잡에듀 ─ 온라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 17:46:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 05:51:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>https://www.enterjobedu.co.kr/lecture/300</guid>
             <pubDate>Mon, 13 Jun 2022 05:43:51 GMT</pubDate>
             <content:encoded><![CDATA[박준우]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/200e8e429d0ec98c4a6c88ed29172bbd.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/4deb456f1c09124b542d2c7e57c0188c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엔터 직무 부트캠프 : 영상제작 [2기]]]></title>
@@ -85,7 +85,7 @@
             <guid>https://www.enterjobedu.co.kr/lecture/293</guid>
             <pubDate>Mon, 13 Jun 2022 05:43:51 GMT</pubDate>
             <content:encoded><![CDATA[우주]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/76b3455ff81fdf55c6a4828a95fa47eb.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/709a3600974b5ba177deef6c27719180.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[⭐선착순10명 한정⭐2022 2분기 SM 공채합격전략 첨삭패키지]]></title>
