@@ -4,7 +4,7 @@
         <title>엔터잡에듀 ─ 온라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 17:45:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 05:42:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/5eb34f34eb832b806e221c75b79b2cf0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[포트폴리오/과제 부트캠프 [2기]]]></title>
+            <title><![CDATA[✨인턴 채용 연계✨포트폴리오/과제 부트캠프 [2기]]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/301</link>
             <guid>https://www.enterjobedu.co.kr/lecture/301</guid>
             <pubDate>Mon, 13 Jun 2022 17:45:47 GMT</pubDate>
@@ -109,7 +109,7 @@
             <guid>https://www.enterjobedu.co.kr/lecture/276</guid>
             <pubDate>Wed, 04 May 2022 05:43:26 GMT</pubDate>
             <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/865088034ec3fa3d42c7270194a899e0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/4fd414f79a7fb485b233784206e29296.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[2022 2분기 JYP엔터테인먼트 공채 합격전략 패키지(인강+자료집)]]></title>
@@ -133,7 +133,7 @@
             <guid>https://www.enterjobedu.co.kr/lecture/226</guid>
             <pubDate>Wed, 20 Apr 2022 17:48:34 GMT</pubDate>
             <content:encoded><![CDATA[마케팅멘토]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/4963272fec3329518364f803457d1caf.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/7c2e552994bb3d1fe1050c5807cac9d9.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[2022 리뉴얼] YG Ent. / YG PLUS 채용 합격 전략]]></title>
@@ -141,7 +141,7 @@
             <guid>https://www.enterjobedu.co.kr/lecture/225</guid>
             <pubDate>Wed, 20 Apr 2022 17:48:34 GMT</pubDate>
             <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/9b723789973f77ea3e3946fd0e018ac4.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/937f859949cce93ee4693233cc6d30be.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[입문] 2022 엔터테인먼트 채용/취업 전망 및 동향 분석]]></title>
@@ -165,7 +165,7 @@
             <guid>https://www.enterjobedu.co.kr/lecture/208</guid>
             <pubDate>Wed, 20 Apr 2022 17:48:34 GMT</pubDate>
             <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/178ff6d3764817d680b1d67cfc93073d.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/2fd3bb353c3c224afa636ceae200ffc5.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
