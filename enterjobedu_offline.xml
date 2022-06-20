@@ -4,7 +4,7 @@
         <title>엔터잡에듀 ─ 오프라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 05:41:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 17:45:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Wed, 15 Jun 2022 17:43:27 GMT</pubDate>
             <content:encoded><![CDATA[배수정]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/05ffc8a2bf039b152a25438e0626fd09.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A&R 현직자 Alex 강사님의 1:1 컨설팅]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/311</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/311</guid>
+            <pubDate>Mon, 20 Jun 2022 17:45:14 GMT</pubDate>
+            <content:encoded><![CDATA[ALEX KIM]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/8e9d58078eb848a054c684cc174c97a7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[프리미엄 클래스] A&R 음악관: Music Philosophy & Theory]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/310</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/310</guid>
+            <pubDate>Mon, 20 Jun 2022 17:45:14 GMT</pubDate>
+            <content:encoded><![CDATA[ALEX KIM]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/c120d10ec0d98b63c4d0817e12ce7a44.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[4기] 🎧 A&R 입문하기 “A&R 음악 세계를 노크하다”]]></title>
