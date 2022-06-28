@@ -4,7 +4,7 @@
         <title>엔터잡에듀 ─ 온라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 05:47:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 17:47:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Wed, 22 Jun 2022 17:49:45 GMT</pubDate>
             <content:encoded><![CDATA[박준우]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/4deb456f1c09124b542d2c7e57c0188c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔터 직무 부트캠프 : 영상제작 [2기]]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/299</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/299</guid>
-            <pubDate>Wed, 22 Jun 2022 17:49:45 GMT</pubDate>
-            <content:encoded><![CDATA[이채영]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/5220762168bbb502054e09da335146ce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[A&R 직무 부트캠프: 음악 장르의 이해 [6기]]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Wed, 22 Jun 2022 17:49:45 GMT</pubDate>
             <content:encoded><![CDATA[이상환]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/d7048bd793d4b4b228cc14488b716908.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[음악 장르의 이해]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/198</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/198</guid>
+            <pubDate>Tue, 28 Jun 2022 17:46:23 GMT</pubDate>
+            <content:encoded><![CDATA[박준우]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/5feb4bf46fffbd95f679e28020439543.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
