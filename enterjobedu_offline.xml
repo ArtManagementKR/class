@@ -4,7 +4,7 @@
         <title>엔터잡에듀 ─ 오프라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 17:47:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 05:47:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,20 +40,12 @@
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/3ce4767e5ffb720e4495ddb903c21196.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[34기] [컨설팅 포함] 이상환 강사의 엔터 취업 한달반]]></title>
+            <title><![CDATA[🔥125명의 최종합격자 배출! 이상환 강사의 엔터 취업 한달반 34기]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/308</link>
             <guid>https://www.enterjobedu.co.kr/lecture/308</guid>
             <pubDate>Wed, 15 Jun 2022 17:43:27 GMT</pubDate>
             <content:encoded><![CDATA[이상환]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/ac0481d6f302f06d300a1efddce05e99.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[34기] [컨설팅 제외] 이상환 강사의 엔터 취업 한달반]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/307</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/307</guid>
-            <pubDate>Wed, 15 Jun 2022 17:43:27 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/4e90942881de8c05d572e530890d80dd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[27기] A&R 실무 역량 강화 프로그램]]></title>
@@ -64,36 +56,12 @@
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/57c3ca31fd930c716b55fc6bdf526188.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[35기] [컨설팅 제외] 이상환 강사의 엔터 취업 한달반]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/305</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/305</guid>
-            <pubDate>Wed, 15 Jun 2022 17:43:27 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/cc657d084b769d48db8df9d866213f44.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[35기] [컨설팅 포함] 이상환 강사의 엔터 취업 한달반]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/304</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/304</guid>
-            <pubDate>Wed, 15 Jun 2022 17:43:27 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/fd5c0c768b1bca1df23d0feff7cb8960.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[7기] 대형기획사 출신 현직자의 비주얼 기획 실무역량강화 프로그램]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/303</link>
             <guid>https://www.enterjobedu.co.kr/lecture/303</guid>
             <pubDate>Mon, 27 Jun 2022 05:45:08 GMT</pubDate>
             <content:encoded><![CDATA[ZOO]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/7fa54da512db400fda7175ce6c53e6eb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[6기] 대형기획사 출신 현직자의 비주얼 기획 실무역량강화 프로그램]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/267</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/267</guid>
-            <pubDate>Thu, 23 Jun 2022 17:45:18 GMT</pubDate>
-            <content:encoded><![CDATA[ZOO]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/c2905c576aa2fb28071e5dfc317d75ae.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
