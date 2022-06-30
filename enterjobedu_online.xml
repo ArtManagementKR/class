@@ -4,17 +4,9 @@
         <title>엔터잡에듀 ─ 온라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 18:05:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 05:45:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[엔터 직무 부트캠프: 공연기획[2기]]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/302</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/302</guid>
-            <pubDate>Wed, 22 Jun 2022 17:49:45 GMT</pubDate>
-            <content:encoded><![CDATA[레나]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/5eb34f34eb832b806e221c75b79b2cf0.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[✨A&R/마케팅 인턴 채용 연계✨포트폴리오/과제 부트캠프 [2기]]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/301</link>
@@ -166,6 +158,14 @@
             <pubDate>Tue, 28 Jun 2022 17:46:23 GMT</pubDate>
             <content:encoded><![CDATA[박준우]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/5feb4bf46fffbd95f679e28020439543.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[A&R 직무특강] 음악으로 글쓰기]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/191</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/191</guid>
+            <pubDate>Thu, 30 Jun 2022 05:44:51 GMT</pubDate>
+            <content:encoded><![CDATA[박준우]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/41da2e2a16f4a941de4c3369a1f60316.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
