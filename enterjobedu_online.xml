@@ -4,25 +4,9 @@
         <title>엔터잡에듀 ─ 온라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 17:42:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 05:49:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[✨A&R/마케팅 인턴 채용 연계✨포트폴리오/과제 부트캠프 [2기]]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/301</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/301</guid>
-            <pubDate>Wed, 22 Jun 2022 17:49:45 GMT</pubDate>
-            <content:encoded><![CDATA[윤선미]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/9d1eb79182d68c82e98fba61684cadd0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A&R 직무 부트캠프: 음악으로 글쓰기 [4기]]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/300</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/300</guid>
-            <pubDate>Wed, 22 Jun 2022 17:49:45 GMT</pubDate>
-            <content:encoded><![CDATA[박준우]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/4deb456f1c09124b542d2c7e57c0188c.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[A&R 직무 부트캠프: 음악 장르의 이해 [6기]]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/298</link>
@@ -166,6 +150,22 @@
             <pubDate>Thu, 30 Jun 2022 05:44:51 GMT</pubDate>
             <content:encoded><![CDATA[박준우]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/41da2e2a16f4a941de4c3369a1f60316.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2022 리뉴얼] [입문] 아이돌 기획사의 이해 및 취업 준비 방법]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/190</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/190</guid>
+            <pubDate>Mon, 04 Jul 2022 05:47:44 GMT</pubDate>
+            <content:encoded><![CDATA[윤선미]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/e1f4036071c0971eb576f7623af73e67.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년 겨울 방학 대비 엔터 취업 만원 특강]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/185</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/185</guid>
+            <pubDate>Mon, 04 Jul 2022 05:47:44 GMT</pubDate>
+            <content:encoded><![CDATA[이상환]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/84d67da66c34eaae8be6a505d8dc37e0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
