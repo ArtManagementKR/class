@@ -4,7 +4,7 @@
         <title>엔터잡에듀 ─ 오프라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 17:47:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 05:49:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,14 +62,6 @@
             <pubDate>Tue, 05 Jul 2022 17:46:57 GMT</pubDate>
             <content:encoded><![CDATA[배수정]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/57c3ca31fd930c716b55fc6bdf526188.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[7기] 대형기획사 출신 현직자의 비주얼 기획 실무역량강화 프로그램]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/303</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/303</guid>
-            <pubDate>Tue, 05 Jul 2022 17:46:57 GMT</pubDate>
-            <content:encoded><![CDATA[ZOO]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/7fa54da512db400fda7175ce6c53e6eb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
