@@ -4,11 +4,11 @@
         <title>엔터잡에듀 ─ 오프라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 05:56:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 17:44:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[🔥런칭기념할인! 이상환 강사의 Big4 엔터테인먼트 취업 슈퍼 패스(+Big4 현직자 비공개 세션)]]></title>
+            <title><![CDATA[🔥마지막5명! 이상환 강사의 Big4 엔터테인먼트 취업 슈퍼 패스(+Big4 현직자 비공개 세션)]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/315</link>
             <guid>https://www.enterjobedu.co.kr/lecture/315</guid>
             <pubDate>Fri, 08 Jul 2022 05:44:54 GMT</pubDate>
@@ -22,14 +22,6 @@
             <pubDate>Tue, 05 Jul 2022 17:46:57 GMT</pubDate>
             <content:encoded><![CDATA[NARI]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/5b6eab01cb3ad31a76bfa5caf9b64a55.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A&R 현직자 Alex 강사님의 1:1 컨설팅]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/311</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/311</guid>
-            <pubDate>Tue, 05 Jul 2022 17:46:57 GMT</pubDate>
-            <content:encoded><![CDATA[ALEX KIM]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/8e9d58078eb848a054c684cc174c97a7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[프리미엄 클래스] A&R 음악관: Music Philosophy & Theory]]></title>
@@ -61,7 +53,7 @@
             <guid>https://www.enterjobedu.co.kr/lecture/306</guid>
             <pubDate>Tue, 05 Jul 2022 17:46:57 GMT</pubDate>
             <content:encoded><![CDATA[배수정]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/57c3ca31fd930c716b55fc6bdf526188.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/6d868996b5488e06110b19b6dcbc2a55.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
