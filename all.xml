@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 05:45:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 17:45:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Tue, 26 Jul 2022 05:57:02 GMT</pubDate>
             <content:encoded><![CDATA[이상환]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/27b746544955e6bf4da2eea240cc9256.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🔥30명 한정! 2022 엔터취업 풀소유 패키지 (+1:1컨설팅) (엔터잡에듀 ─ 온라인 클래스)]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/287</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/287</guid>
+            <pubDate>Tue, 09 Aug 2022 17:44:51 GMT</pubDate>
+            <content:encoded><![CDATA[이상환]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/52547a1cd2755c7e55a4cdbd192bd8d8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022 리뉴얼] 엔터취업 서류합격 스펙분석 (엔터잡에듀 ─ 온라인 클래스)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 26 Jul 2022 05:57:02 GMT</pubDate>
             <content:encoded><![CDATA[이상환]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/9d95ed525c11fcd4530e62cd5c5651b7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔터테인먼트 주요 직무 소개: 음악유통(온/오프) (엔터잡에듀 ─ 온라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/171</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/171</guid>
-            <pubDate>Tue, 26 Jul 2022 05:57:02 GMT</pubDate>
-            <content:encoded><![CDATA[심희진]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/e4656411c6da7200554011bafb993589.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[🔥마지막5명! 이상환 강사의 Big4 엔터테인먼트 취업 슈퍼 패스(+Big4 현직자 비공개 세션) (엔터잡에듀 ─ 오프라인 클래스)]]></title>
@@ -1245,7 +1245,7 @@
             <content:encoded><![CDATA[<div class="mb-3">
       <a href="/video_contents/150">
         <div class="card-shape">
-          <img class="w-100 card-img-top" src="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_67587582-4bcc-4c75-8604-b43f153508cfthumbnail.png.png?X-Amz-Expires=600&amp;X-Amz-Date=20220809T054531Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20220809%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=43de3513658b12e3e55c592d0f86d2fb9041967974ba73090ef3bb77fe6d8389" alt="Card image cap">
+          <img class="w-100 card-img-top" src="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_67587582-4bcc-4c75-8604-b43f153508cfthumbnail.png.png?X-Amz-Expires=600&amp;X-Amz-Date=20220809T174534Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20220809%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=b28539c4f63fbae9d1fbe955975764d674fa651ce6d483e9bbb0aa1cce0ba19f" alt="Card image cap">
         </div>
         <div class="py-3">
           <div class="row mx-0 justify-content-between">
@@ -1346,7 +1346,7 @@
             <content:encoded><![CDATA[<div class="mb-3">
       <a href="/video_contents/18">
         <div class="card-shape">
-          <img class="w-100 card-img-top" src="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_e2633db8-1b2a-4c26-a99b-fa126526559e%E1%84%8F%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%8F%E1%85%A9%E1%86%AB_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%91%E1%85%AE%E1%86%AF%E1%84%91%E1%85%A2%E1%84%8F%E1%85%B5%E1%84%8C%E1%85%B5_3x.png.png?X-Amz-Expires=600&amp;X-Amz-Date=20220809T054531Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20220809%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=45c2d880463ad305bb50975bd21f6b22806035f94284068ada7c839a704e539e" alt="Card image cap">
+          <img class="w-100 card-img-top" src="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_e2633db8-1b2a-4c26-a99b-fa126526559e%E1%84%8F%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%8F%E1%85%A9%E1%86%AB_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%91%E1%85%AE%E1%86%AF%E1%84%91%E1%85%A2%E1%84%8F%E1%85%B5%E1%84%8C%E1%85%B5_3x.png.png?X-Amz-Expires=600&amp;X-Amz-Date=20220809T174534Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20220809%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=a801f6cfc73512a521303e4bfa00841a0c04a7cd3ad2331611de68a817967933" alt="Card image cap">
         </div>
         <div class="py-3">
           <div class="row mx-0 justify-content-between">
@@ -1370,7 +1370,7 @@
             <content:encoded><![CDATA[<div class="mb-3">
       <a href="/video_contents/19">
         <div class="card-shape">
-          <img class="w-100 card-img-top" src="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_85bb0bf3-a83c-421e-a037-cc1bbf39aba2%E1%84%8F%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%8F%E1%85%A9%E1%86%AB_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%86%E1%85%B5%E1%84%81%E1%85%B5%E1%84%89%E1%85%A1%E1%86%BC%E1%84%91%E1%85%AE%E1%86%B7_3x.png.png?X-Amz-Expires=600&amp;X-Amz-Date=20220809T054531Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20220809%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=eeaa28382d0ec1d1db4d270c076f45ececafecc813e99328b28340f46d14e474" alt="Card image cap">
+          <img class="w-100 card-img-top" src="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_85bb0bf3-a83c-421e-a037-cc1bbf39aba2%E1%84%8F%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%8F%E1%85%A9%E1%86%AB_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%86%E1%85%B5%E1%84%81%E1%85%B5%E1%84%89%E1%85%A1%E1%86%BC%E1%84%91%E1%85%AE%E1%86%B7_3x.png.png?X-Amz-Expires=600&amp;X-Amz-Date=20220809T174534Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20220809%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=f6263786a17749029bb63bee5d2c798a46a329b288def152e8e744e0dcb60691" alt="Card image cap">
         </div>
         <div class="py-3">
           <div class="row mx-0 justify-content-between">

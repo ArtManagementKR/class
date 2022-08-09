@@ -4,7 +4,7 @@
         <title>엔터잡에듀 ─ 온라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 05:45:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 17:45:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Tue, 26 Jul 2022 05:57:02 GMT</pubDate>
             <content:encoded><![CDATA[이상환]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/27b746544955e6bf4da2eea240cc9256.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🔥30명 한정! 2022 엔터취업 풀소유 패키지 (+1:1컨설팅)]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/287</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/287</guid>
+            <pubDate>Tue, 09 Aug 2022 17:44:51 GMT</pubDate>
+            <content:encoded><![CDATA[이상환]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/52547a1cd2755c7e55a4cdbd192bd8d8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022 리뉴얼] 엔터취업 서류합격 스펙분석]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 26 Jul 2022 05:57:02 GMT</pubDate>
             <content:encoded><![CDATA[이상환]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/9d95ed525c11fcd4530e62cd5c5651b7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔터테인먼트 주요 직무 소개: 음악유통(온/오프)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/171</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/171</guid>
-            <pubDate>Tue, 26 Jul 2022 05:57:02 GMT</pubDate>
-            <content:encoded><![CDATA[심희진]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/e4656411c6da7200554011bafb993589.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
