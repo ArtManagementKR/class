@@ -4,7 +4,7 @@
         <title>엔터잡에듀 ─ 오프라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 05:42:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 17:45:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,7 +53,7 @@
             <guid>https://www.enterjobedu.co.kr/lecture/306</guid>
             <pubDate>Tue, 05 Jul 2022 17:46:57 GMT</pubDate>
             <content:encoded><![CDATA[배수정]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/b0d270a88b06a6d4bdc0f328095c94e8.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/831a845d245e79938c9628f9dcc07429.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
