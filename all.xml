@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 05:48:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 17:48:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1228,14 +1228,14 @@
             <link>https://events.eoeoeo.net/events/24</link>
             <guid>https://events.eoeoeo.net/events/24</guid>
             <pubDate>Mon, 27 Jun 2022 17:47:05 GMT</pubDate>
-            <content:encoded><![CDATA[2022. 07. 06 ~ 2022. 07. 06]]></content:encoded>
+            <content:encoded><![CDATA[2022. 07. 06 20:00 ~ 2022. 07. 06 23:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[STAGE ZERO EP.02 (EO ─ 이벤트)]]></title>
             <link>https://events.eoeoeo.net/events/23</link>
             <guid>https://events.eoeoeo.net/events/23</guid>
             <pubDate>Thu, 09 Jun 2022 05:41:28 GMT</pubDate>
-            <content:encoded><![CDATA[2022. 06. 13 ~ 2022. 06. 13]]></content:encoded>
+            <content:encoded><![CDATA[2022. 06. 13 20:00 ~ 2022. 06. 13 22:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[스펙트럼콘21 다시보기 VOD (EO ─ 이벤트)]]></title>
@@ -1245,7 +1245,7 @@
             <content:encoded><![CDATA[<div class="mb-3">
       <a href="/video_contents/150">
         <div class="card-shape">
-          <img class="w-100 card-img-top" src="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_67587582-4bcc-4c75-8604-b43f153508cfthumbnail.png.png?X-Amz-Expires=600&amp;X-Amz-Date=20220819T054830Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20220819%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=4877378fcb567e2e8d92f5ec36a5e0e53289a10a7231dcf7f41e2dafcfec97f7" alt="Card image cap">
+          <img class="w-100 card-img-top" src="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_67587582-4bcc-4c75-8604-b43f153508cfthumbnail.png.png?X-Amz-Expires=600&amp;X-Amz-Date=20220819T174829Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20220819%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=d1c93890ba5e15560469b1188e9e826f13354eb5b326c8edfe19dea1eed3b595" alt="Card image cap">
         </div>
         <div class="py-3">
           <div class="row mx-0 justify-content-between">
@@ -1266,77 +1266,77 @@
             <link>https://events.eoeoeo.net/events/20</link>
             <guid>https://events.eoeoeo.net/events/20</guid>
             <pubDate>Sat, 04 Dec 2021 13:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 12. 09 ~ 2021. 12. 09]]></content:encoded>
+            <content:encoded><![CDATA[2021. 12. 09 13:00 ~ 2021. 12. 09 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[새로운 커리어가 시작되는 e번 탑승구 | 요기요행 (EO ─ 이벤트)]]></title>
             <link>https://events.eoeoeo.net/events/17</link>
             <guid>https://events.eoeoeo.net/events/17</guid>
             <pubDate>Sat, 04 Dec 2021 13:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 11. 17 ~ 2021. 11. 17]]></content:encoded>
+            <content:encoded><![CDATA[2021. 11. 17 17:00 ~ 2021. 11. 17 23:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[GRID FINAL LIVE (EO ─ 이벤트)]]></title>
             <link>https://events.eoeoeo.net/events/16</link>
             <guid>https://events.eoeoeo.net/events/16</guid>
             <pubDate>Sat, 04 Dec 2021 13:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 11. 11 ~ 2021. 11. 12]]></content:encoded>
+            <content:encoded><![CDATA[2021. 11. 11 13:18 ~ 2021. 11. 12 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뤼이드 개발자 채용설명회 (EO ─ 이벤트)]]></title>
             <link>https://events.eoeoeo.net/events/14</link>
             <guid>https://events.eoeoeo.net/events/14</guid>
             <pubDate>Sat, 04 Dec 2021 13:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 10. 12 ~ 2021. 10. 12]]></content:encoded>
+            <content:encoded><![CDATA[2021. 10. 12 19:20 ~ 2021. 10. 12 23:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[센드버드 전직군 채용 설명회 Live (EO ─ 이벤트)]]></title>
             <link>https://events.eoeoeo.net/events/12</link>
             <guid>https://events.eoeoeo.net/events/12</guid>
             <pubDate>Sat, 04 Dec 2021 13:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 09. 15 ~ 2021. 09. 15]]></content:encoded>
+            <content:encoded><![CDATA[2021. 09. 15 18:30 ~ 2021. 09. 15 23:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[네이버웹툰 개발자 채용 설명회 with EO (EO ─ 이벤트)]]></title>
             <link>https://events.eoeoeo.net/events/13</link>
             <guid>https://events.eoeoeo.net/events/13</guid>
             <pubDate>Sat, 04 Dec 2021 13:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 09. 08 ~ 2021. 09. 08]]></content:encoded>
+            <content:encoded><![CDATA[2021. 09. 08 19:00 ~ 2021. 09. 08 22:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[스타트업 서바이벌 오디션 <유니콘 하우스> (EO ─ 이벤트)]]></title>
             <link>https://events.eoeoeo.net/events/10</link>
             <guid>https://events.eoeoeo.net/events/10</guid>
             <pubDate>Sat, 04 Dec 2021 13:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 08. 15 ~ 2021. 09. 06]]></content:encoded>
+            <content:encoded><![CDATA[2021. 08. 15 18:00 ~ 2021. 09. 06 00:15]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[마이리얼트립 LIVE  슈퍼채용 설명회 with EO (EO ─ 이벤트)]]></title>
             <link>https://events.eoeoeo.net/events/9</link>
             <guid>https://events.eoeoeo.net/events/9</guid>
             <pubDate>Sat, 04 Dec 2021 13:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 08. 25 ~ 2021. 08. 25]]></content:encoded>
+            <content:encoded><![CDATA[2021. 08. 25 18:00 ~ 2021. 08. 25 23:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우아한형제들 LIVE 개발자 채용 설명회 with EO (EO ─ 이벤트)]]></title>
             <link>https://events.eoeoeo.net/events/8</link>
             <guid>https://events.eoeoeo.net/events/8</guid>
             <pubDate>Sat, 04 Dec 2021 13:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 07. 14 ~ 2021. 07. 15]]></content:encoded>
+            <content:encoded><![CDATA[2021. 07. 14 19:00 ~ 2021. 07. 15 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021 DHP 데모데이 - 대한민국 미래 헬스케어 시장을 이끌어 갈 스타트업 이야기 (EO ─ 이벤트)]]></title>
             <link>https://events.eoeoeo.net/events/6</link>
             <guid>https://events.eoeoeo.net/events/6</guid>
             <pubDate>Sat, 04 Dec 2021 13:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 05. 05 ~ 2021. 05. 06]]></content:encoded>
+            <content:encoded><![CDATA[2021. 05. 05 12:00 ~ 2021. 05. 06 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[EO X 김나이 - 커리어콘 2021 (EO ─ 이벤트)]]></title>
             <link>https://events.eoeoeo.net/events/2</link>
             <guid>https://events.eoeoeo.net/events/2</guid>
             <pubDate>Sat, 04 Dec 2021 13:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 02. 22 ~ 2021. 02. 26]]></content:encoded>
+            <content:encoded><![CDATA[2021. 02. 22 06:00 ~ 2021. 02. 26 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[커리어콘 2021 - 더 나은 회사, 그 이상의 더 나은 나 (EO ─ 이벤트)]]></title>
@@ -1346,7 +1346,7 @@
             <content:encoded><![CDATA[<div class="mb-3">
       <a href="/video_contents/18">
         <div class="card-shape">
-          <img class="w-100 card-img-top" src="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_e2633db8-1b2a-4c26-a99b-fa126526559e%E1%84%8F%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%8F%E1%85%A9%E1%86%AB_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%91%E1%85%AE%E1%86%AF%E1%84%91%E1%85%A2%E1%84%8F%E1%85%B5%E1%84%8C%E1%85%B5_3x.png.png?X-Amz-Expires=600&amp;X-Amz-Date=20220819T054830Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20220819%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=02c2911e5a9df3c247b39985fc03d79092dc284f89c67f05060e215c1fd55895" alt="Card image cap">
+          <img class="w-100 card-img-top" src="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_e2633db8-1b2a-4c26-a99b-fa126526559e%E1%84%8F%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%8F%E1%85%A9%E1%86%AB_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%91%E1%85%AE%E1%86%AF%E1%84%91%E1%85%A2%E1%84%8F%E1%85%B5%E1%84%8C%E1%85%B5_3x.png.png?X-Amz-Expires=600&amp;X-Amz-Date=20220819T174829Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20220819%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=9225ddabd329d4cca2d461b27900643dc31279fdeeb5e4e810d08673520b9b75" alt="Card image cap">
         </div>
         <div class="py-3">
           <div class="row mx-0 justify-content-between">
@@ -1370,7 +1370,7 @@
             <content:encoded><![CDATA[<div class="mb-3">
       <a href="/video_contents/19">
         <div class="card-shape">
-          <img class="w-100 card-img-top" src="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_85bb0bf3-a83c-421e-a037-cc1bbf39aba2%E1%84%8F%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%8F%E1%85%A9%E1%86%AB_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%86%E1%85%B5%E1%84%81%E1%85%B5%E1%84%89%E1%85%A1%E1%86%BC%E1%84%91%E1%85%AE%E1%86%B7_3x.png.png?X-Amz-Expires=600&amp;X-Amz-Date=20220819T054830Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20220819%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=ce3243cfef70a45090d5f0de27d0501a89bc211625f2cdc570ff53f33b98a694" alt="Card image cap">
+          <img class="w-100 card-img-top" src="https://eo-server.s3.ap-northeast-2.amazonaws.com/uploads/thumb_85bb0bf3-a83c-421e-a037-cc1bbf39aba2%E1%84%8F%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%8F%E1%85%A9%E1%86%AB_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%86%E1%85%B5%E1%84%81%E1%85%B5%E1%84%89%E1%85%A1%E1%86%BC%E1%84%91%E1%85%AE%E1%86%B7_3x.png.png?X-Amz-Expires=600&amp;X-Amz-Date=20220819T174829Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYOZYIPJSBTCAHENK%2F20220819%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=4d1ff7af97b85d28b165a76c72b09118e0b536ff4994182afdd410af5153d14d" alt="Card image cap">
         </div>
         <div class="py-3">
           <div class="row mx-0 justify-content-between">
