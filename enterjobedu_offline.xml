@@ -4,7 +4,7 @@
         <title>엔터잡에듀 ─ 오프라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 05:50:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 17:44:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,6 +32,14 @@
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/5b6eab01cb3ad31a76bfa5caf9b64a55.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[A&R 현직자 Alex 강사님의 1:1 컨설팅]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/311</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/311</guid>
+            <pubDate>Sun, 28 Aug 2022 17:43:57 GMT</pubDate>
+            <content:encoded><![CDATA[ALEX KIM]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/8e9d58078eb848a054c684cc174c97a7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[프리미엄 클래스] A&R 음악관: Music Philosophy & Theory]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/310</link>
             <guid>https://www.enterjobedu.co.kr/lecture/310</guid>
@@ -48,7 +56,7 @@
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/6ab0fda5a867d2c6bc8a6df9d26770ed.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[🔥156명의 최종합격자 배출! 이상환 강사의 엔터 취업 한달반]]></title>
+            <title><![CDATA[🔥181명의 최종합격자 배출! 이상환 강사의 엔터 취업 한달반]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/308</link>
             <guid>https://www.enterjobedu.co.kr/lecture/308</guid>
             <pubDate>Tue, 05 Jul 2022 17:46:57 GMT</pubDate>
