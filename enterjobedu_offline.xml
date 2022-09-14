@@ -4,9 +4,17 @@
         <title>엔터잡에듀 ─ 오프라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 06:36:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 17:53:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🎯선착순 40명! 뉴진스로 소개하는 최신 음악 트렌드]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/335</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/335</guid>
+            <pubDate>Wed, 14 Sep 2022 17:52:28 GMT</pubDate>
+            <content:encoded><![CDATA[박준우]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/473c4e39572aa4af5ef8b0e2b14c0d9e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[🎯선착순 40명! 대형기획사 출신 현직자 Alex의 A&R 무료 특강]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/331</link>
