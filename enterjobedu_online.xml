@@ -4,11 +4,19 @@
         <title>엔터잡에듀 ─ 온라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 06:28:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 17:51:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[🔥CJ ENM 최종합격자 57명 배출! 2022 하반기 CJ ENM 합격 전략 패키지]]></title>
+            <title><![CDATA[박준우 음악 평론가의 A&R 직무 부트캠프: 음악 장르의 이해]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/337</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/337</guid>
+            <pubDate>Thu, 15 Sep 2022 17:50:48 GMT</pubDate>
+            <content:encoded><![CDATA[박준우]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/ea6113a184c024a04d30bd70fd4f1187.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🔥CJ ENM 최종합격자 57명 배출! 2022 하반기 CJ ENM 합격 전략 패키지 (온+오프+첨삭)]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/336</link>
             <guid>https://www.enterjobedu.co.kr/lecture/336</guid>
             <pubDate>Thu, 15 Sep 2022 06:27:34 GMT</pubDate>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 26 Jul 2022 05:57:02 GMT</pubDate>
             <content:encoded><![CDATA[윤선미]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/e1f4036071c0971eb576f7623af73e67.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 겨울 방학 대비 엔터 취업 만원 특강]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/185</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/185</guid>
-            <pubDate>Tue, 26 Jul 2022 05:57:02 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/84d67da66c34eaae8be6a505d8dc37e0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
