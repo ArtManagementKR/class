@@ -4,9 +4,17 @@
         <title>엔터잡에듀 ─ 온라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 17:53:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 06:28:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🔥CJ ENM 최종합격자 57명 배출! 2022 하반기 CJ ENM 합격 전략 패키지]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/336</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/336</guid>
+            <pubDate>Thu, 15 Sep 2022 06:27:34 GMT</pubDate>
+            <content:encoded><![CDATA[이상환]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/b053842c0547fd6e47332ac633dd373e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 스타쉽 채용 대비 합격 전략 (서류+면접)]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/334</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 26 Jul 2022 05:57:02 GMT</pubDate>
             <content:encoded><![CDATA[이상환]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/84d67da66c34eaae8be6a505d8dc37e0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[입문] 포트폴리오/과제 작성 전략]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/177</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/177</guid>
-            <pubDate>Tue, 26 Jul 2022 05:57:02 GMT</pubDate>
-            <content:encoded><![CDATA[윤선미]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/d378801cf18597d324e53e74aa862955.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
