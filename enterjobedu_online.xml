@@ -4,9 +4,25 @@
         <title>엔터잡에듀 ─ 온라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 06:44:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 18:00:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🔥CJ ENM 최종합격자 57명 배출! 2022 하반기 CJ ENM 합격 전략 첨삭 패키지]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/340</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/340</guid>
+            <pubDate>Mon, 19 Sep 2022 17:59:38 GMT</pubDate>
+            <content:encoded><![CDATA[이상환]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/653b358230c95daaf14d286a60d9b425.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🔥CJ ENM 최종합격자 57명 배출! 2022 하반기 CJ ENM 합격 전략 온+오프 강의 패키지]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/339</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/339</guid>
+            <pubDate>Mon, 19 Sep 2022 17:59:38 GMT</pubDate>
+            <content:encoded><![CDATA[이상환]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/ed613c9d764a70f4ac55515d58a99af2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박준우 음악 평론가의 A&R 직무 부트캠프: 음악 장르의 이해]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/337</link>
@@ -14,14 +30,6 @@
             <pubDate>Thu, 15 Sep 2022 17:50:48 GMT</pubDate>
             <content:encoded><![CDATA[박준우]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/35ebf731380c3ddf818a7c3b0680d29a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🔥CJ ENM 최종합격자 57명 배출! 2022 하반기 CJ ENM 합격 전략 패키지 (온+오프+첨삭)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/336</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/336</guid>
-            <pubDate>Thu, 15 Sep 2022 06:27:34 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/b053842c0547fd6e47332ac633dd373e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 스타쉽 채용 대비 합격 전략 (서류+면접)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 26 Jul 2022 05:57:02 GMT</pubDate>
             <content:encoded><![CDATA[박준우]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/41da2e2a16f4a941de4c3369a1f60316.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2022 리뉴얼] [입문] 아이돌 기획사의 이해 및 취업 준비 방법]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/190</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/190</guid>
-            <pubDate>Tue, 26 Jul 2022 05:57:02 GMT</pubDate>
-            <content:encoded><![CDATA[윤선미]]></content:encoded>
-            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/e1f4036071c0971eb576f7623af73e67.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

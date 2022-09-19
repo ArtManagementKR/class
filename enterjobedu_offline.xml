@@ -4,7 +4,7 @@
         <title>엔터잡에듀 ─ 오프라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 06:44:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 18:00:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 07 Sep 2022 06:44:01 GMT</pubDate>
             <content:encoded><![CDATA[ALEX KIM]]></content:encoded>
             <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/147ad192cb9352d88092bef00a286080.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🎯선착순 40명! 대형기획사 출신 현직자의 비주얼 기획 직무 무료 특강]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/329</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/329</guid>
+            <pubDate>Mon, 19 Sep 2022 17:59:51 GMT</pubDate>
+            <content:encoded><![CDATA[ZOO]]></content:encoded>
+            <enclosure url="https://enterjobedu.s3.ap-northeast-2.amazonaws.com/class/thumb/072d02831dc745d4812ced8fefb9bfb5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[외국계 직배사 현직자 1:1 컨설팅 (유니버설, 소니, 워너)]]></title>
