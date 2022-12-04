@@ -1,8 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.enterjobedu.co.kr/offline?page=1&amp;&amp;sort=new</id>
-    <title>엔터잡에듀 ─ 오프라인 클래스</title>
-    <updated>2022-11-16T05:46:54.576Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.enterjobedu.co.kr/logo.png</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엔터잡에듀 ─ 오프라인 클래스</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 04 Dec 2022 17:42:10 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대형기획사 출신 비주얼 기획 현직자 1:1 컨설팅]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/360</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/360</guid>
+            <pubDate>Sun, 04 Dec 2022 17:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[ZOO]]></content:encoded>
+            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/3a646bc8ff08389e5c79d2f51c547ce6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[외국계 직배사 현직자 1:1 컨설팅 (유니버설, 소니, 워너)]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/328</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/328</guid>
+            <pubDate>Sun, 04 Dec 2022 17:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[Jimmy]]></content:encoded>
+            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/261f48635483be6fd39b1bec658eb1fd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🔥컨설팅 참여자 23명 모두 서류합격! 100% 서류합격률의 현직자 1:1 컨설팅]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/313</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/313</guid>
+            <pubDate>Sun, 04 Dec 2022 17:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[NARI]]></content:encoded>
+            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/5b6eab01cb3ad31a76bfa5caf9b64a55.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A&R 현직자 Alex 강사님의 1:1 컨설팅]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/311</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/311</guid>
+            <pubDate>Sun, 04 Dec 2022 17:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[ALEX KIM]]></content:encoded>
+            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/8e9d58078eb848a054c684cc174c97a7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🎧 A&R 입문하기 “A&R 음악 세계를 노크하다”]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/309</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/309</guid>
+            <pubDate>Sun, 04 Dec 2022 17:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[ALEX KIM]]></content:encoded>
+            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/36a02cad1930e9bf22ef6807e7cd05e4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🔥181명의 최종합격자 배출! 이상환 강사의 엔터 취업 한달반]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/308</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/308</guid>
+            <pubDate>Sun, 04 Dec 2022 17:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[이상환]]></content:encoded>
+            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/56411ed9734f1d2f9dc93b80d22cd361.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[A&R 실무 역량 강화 프로그램 - A&R처럼 생각하기]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/306</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/306</guid>
+            <pubDate>Sun, 04 Dec 2022 17:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[배수정]]></content:encoded>
+            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/c6ae7da4a930ffcd72b6a72675e9d6e6.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[대형기획사 출신 현직자의 비주얼 기획 실무역량강화 프로그램]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/303</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/303</guid>
+            <pubDate>Sun, 04 Dec 2022 17:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[ZOO]]></content:encoded>
+            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/e70a8ade8ecc60b21ac1477e084ff4d8.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
