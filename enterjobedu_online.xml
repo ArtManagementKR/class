@@ -4,9 +4,17 @@
         <title>엔터잡에듀 ─ 온라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Dec 2022 17:42:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 17:42:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HYBE LABELS 채용 대비 합격 전략(+기업분석자료집)]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/362</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/362</guid>
+            <pubDate>Thu, 08 Dec 2022 17:41:48 GMT</pubDate>
+            <content:encoded><![CDATA[이상환]]></content:encoded>
+            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/0273e1945a5334ef506990ae3c65096e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[HYBE SOLUTIONS 채용 대비 합격 전략(+기업분석자료집)]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/361</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 04 Dec 2022 17:41:21 GMT</pubDate>
             <content:encoded><![CDATA[박준우]]></content:encoded>
             <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/5feb4bf46fffbd95f679e28020439543.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[A&R 직무특강] 음악으로 글쓰기]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/191</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/191</guid>
-            <pubDate>Sun, 04 Dec 2022 17:41:21 GMT</pubDate>
-            <content:encoded><![CDATA[박준우]]></content:encoded>
-            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/41da2e2a16f4a941de4c3369a1f60316.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
