@@ -4,7 +4,7 @@
         <title>엔터잡에듀 ─ 온라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 17:42:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 17:41:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,14 +70,6 @@
             <pubDate>Sun, 04 Dec 2022 17:41:21 GMT</pubDate>
             <content:encoded><![CDATA[이상환]]></content:encoded>
             <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/1a4a8539907013f0a778f232d347a20a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 3분기 JYP엔터테인먼트 공채 합격전략 패키지(인강+자료집+오프라인 현직자 세션)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/324</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/324</guid>
-            <pubDate>Sun, 04 Dec 2022 17:41:21 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/0bbaab54879926a369248d3d8839cd94.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[랜선사수가 알려주는 엔터사 A&R 업무의 모든 것]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Sun, 04 Dec 2022 17:41:21 GMT</pubDate>
             <content:encoded><![CDATA[박준우]]></content:encoded>
             <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/5feb4bf46fffbd95f679e28020439543.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[A&R 직무특강] 음악으로 글쓰기]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/191</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/191</guid>
+            <pubDate>Tue, 13 Dec 2022 17:41:10 GMT</pubDate>
+            <content:encoded><![CDATA[박준우]]></content:encoded>
+            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/41da2e2a16f4a941de4c3369a1f60316.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
