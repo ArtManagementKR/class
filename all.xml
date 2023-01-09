@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Jan 2023 17:42:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 05:42:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[🔥선착순 100명 무료! Study with 엔준모 (엔터 취업 입문) (엔터잡에듀 ─ 온라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/367</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/367</guid>
-            <pubDate>Sat, 17 Dec 2022 17:39:19 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/2ed4d90351e1098dfeb009fe5a52d66b.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2022 4분기 SM 공채합격전략 온라인 강의 패키지 (엔터잡에듀 ─ 온라인 클래스)]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/368</link>
@@ -168,6 +160,14 @@
             <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/2fd3bb353c3c224afa636ceae200ffc5.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[입문] 방송/미디어 산업 취업하기 (엔터잡에듀 ─ 온라인 클래스)]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/206</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/206</guid>
+            <pubDate>Mon, 09 Jan 2023 05:41:20 GMT</pubDate>
+            <content:encoded><![CDATA[이상환]]></content:encoded>
+            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/d7048bd793d4b4b228cc14488b716908.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[대형기획사 출신 비주얼 기획 현직자 1:1 컨설팅 (엔터잡에듀 ─ 오프라인 클래스)]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/360</link>
             <guid>https://www.enterjobedu.co.kr/lecture/360</guid>
@@ -208,7 +208,7 @@
             <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/36a02cad1930e9bf22ef6807e7cd05e4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[🔥181명의 최종합격자 배출! 이상환 강사의 엔터 취업 한달반 (엔터잡에듀 ─ 오프라인 클래스)]]></title>
+            <title><![CDATA[🔥190명의 최종합격자 배출! 이상환 강사의 엔터 취업 한달반 (엔터잡에듀 ─ 오프라인 클래스)]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/308</link>
             <guid>https://www.enterjobedu.co.kr/lecture/308</guid>
             <pubDate>Sun, 04 Dec 2022 17:41:33 GMT</pubDate>
