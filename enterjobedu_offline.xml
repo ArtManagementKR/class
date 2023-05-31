@@ -4,7 +4,7 @@
         <title>엔터잡에듀 ─ 오프라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 17:42:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 17:42:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,7 +72,7 @@
             <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/36a02cad1930e9bf22ef6807e7cd05e4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[🔥192명의 최종합격자 배출! 이상환 강사의 엔터 취업 한달반]]></title>
+            <title><![CDATA[🔥193명의 최종합격자 배출! 이상환 강사의 엔터 취업 한달반]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/308</link>
             <guid>https://www.enterjobedu.co.kr/lecture/308</guid>
             <pubDate>Sun, 04 Dec 2022 17:41:33 GMT</pubDate>
@@ -99,7 +99,7 @@
             <title><![CDATA[11]]></title>
             <link>https://www.enterjobedu.co.kr/offline?page=1&amp;&amp;sort=new</link>
             <guid>https://www.enterjobedu.co.kr/offline?page=1&amp;&amp;sort=new</guid>
-            <pubDate>Wed, 24 May 2023 17:42:26 GMT</pubDate>
+            <pubDate>Wed, 31 May 2023 17:42:11 GMT</pubDate>
         </item>
     </channel>
 </rss>

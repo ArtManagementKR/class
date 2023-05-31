@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 17:42:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 17:42:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[✨채용 연계✨ 신인개발 온라인 부트캠프 [4기] (엔터잡에듀 ─ 온라인 클래스)]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/411</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/411</guid>
+            <pubDate>Wed, 31 May 2023 17:41:57 GMT</pubDate>
+            <content:encoded><![CDATA[원대연]]></content:encoded>
+            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/9bd54e88ce29a3349c22a29db687fe8a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 서류 합격률 2배 올리는 엔터 자소서 작성법 (엔터잡에듀 ─ 온라인 클래스)]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/410</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/410</guid>
+            <pubDate>Wed, 31 May 2023 17:41:57 GMT</pubDate>
+            <content:encoded><![CDATA[이상환]]></content:encoded>
+            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/333f0af14c14bcfa9e15885e06de2af3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023 엔터취업 서류합격 스펙분석 (엔터잡에듀 ─ 온라인 클래스)]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/409</link>
@@ -152,22 +168,6 @@
             <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/caeb7eec63cc066fcc7d784a8874b7ac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스타쉽 채용 대비 합격 전략 (서류+면접) (엔터잡에듀 ─ 온라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/334</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/334</guid>
-            <pubDate>Sun, 04 Dec 2022 17:41:21 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/09556b7430550e27b048a164ec0764e0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[랜선사수가 알려주는 엔터사 A&R 업무의 모든 것 (엔터잡에듀 ─ 온라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/293</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/293</guid>
-            <pubDate>Sun, 04 Dec 2022 17:41:21 GMT</pubDate>
-            <content:encoded><![CDATA[우주]]></content:encoded>
-            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/e70e0aa08653eb9cc6e1d385771e294e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[나만의 합격 콘텐츠를 만들어주는 영상 콘텐츠 기획/제작 현직자 1:1 컨설팅 (엔터잡에듀 ─ 오프라인 클래스)]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/408</link>
             <guid>https://www.enterjobedu.co.kr/lecture/408</guid>
@@ -232,7 +232,7 @@
             <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/36a02cad1930e9bf22ef6807e7cd05e4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[🔥192명의 최종합격자 배출! 이상환 강사의 엔터 취업 한달반 (엔터잡에듀 ─ 오프라인 클래스)]]></title>
+            <title><![CDATA[🔥193명의 최종합격자 배출! 이상환 강사의 엔터 취업 한달반 (엔터잡에듀 ─ 오프라인 클래스)]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/308</link>
             <guid>https://www.enterjobedu.co.kr/lecture/308</guid>
             <pubDate>Sun, 04 Dec 2022 17:41:33 GMT</pubDate>
@@ -259,7 +259,7 @@
             <title><![CDATA[undefined (엔터잡에듀 ─ 오프라인 클래스)]]></title>
             <link>https://ArtManagementKR.github.io/class/all.xml</link>
             <guid>https://ArtManagementKR.github.io/class/all.xml</guid>
-            <pubDate>Wed, 24 May 2023 17:42:26 GMT</pubDate>
+            <pubDate>Wed, 31 May 2023 17:42:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[0에서 시작하는 수제포스터 (STACCATOH ─ Program)]]></title>
