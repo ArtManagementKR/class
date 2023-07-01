@@ -4,7 +4,7 @@
         <title>엔터잡에듀 ─ 오프라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 17:42:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jul 2023 17:41:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,15 +64,15 @@
             <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/71b733c9b72e1b111f0c44d465851f2b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[🎧 A&R 입문하기 “A&R 음악 세계를 노크하다”]]></title>
+            <title><![CDATA[🎧 A&R 입문하기+데모 모니터링 클래스]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/309</link>
             <guid>https://www.enterjobedu.co.kr/lecture/309</guid>
             <pubDate>Sun, 04 Dec 2022 17:41:33 GMT</pubDate>
             <content:encoded><![CDATA[ALEX KIM]]></content:encoded>
-            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/36a02cad1930e9bf22ef6807e7cd05e4.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/1f34d1b748580928e31afc3545a7ed81.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[🔥193명의 최종합격자 배출! 이상환 강사의 엔터 취업 한달반]]></title>
+            <title><![CDATA[🔥197명의 최종합격자 배출! 이상환 강사의 엔터 취업 한달반]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/308</link>
             <guid>https://www.enterjobedu.co.kr/lecture/308</guid>
             <pubDate>Sun, 04 Dec 2022 17:41:33 GMT</pubDate>
@@ -99,7 +99,7 @@
             <title><![CDATA[11]]></title>
             <link>https://www.enterjobedu.co.kr/offline?page=1&amp;&amp;sort=new</link>
             <guid>https://www.enterjobedu.co.kr/offline?page=1&amp;&amp;sort=new</guid>
-            <pubDate>Wed, 31 May 2023 17:42:11 GMT</pubDate>
+            <pubDate>Sat, 01 Jul 2023 17:41:02 GMT</pubDate>
         </item>
     </channel>
 </rss>

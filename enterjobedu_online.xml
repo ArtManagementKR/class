@@ -4,9 +4,25 @@
         <title>엔터잡에듀 ─ 온라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 17:42:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jul 2023 17:41:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[📝2023 10대 엔터테인먼트 기업 분석 및 지원동기 작성 전략]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/415</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/415</guid>
+            <pubDate>Sat, 01 Jul 2023 17:40:50 GMT</pubDate>
+            <content:encoded><![CDATA[이상환]]></content:encoded>
+            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/cd86c0c0b24e3f5e801f1ca1ad3c58c8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 드림메이커 수시 채용 대비 직무 핵심 분석]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/412</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/412</guid>
+            <pubDate>Sat, 01 Jul 2023 17:40:50 GMT</pubDate>
+            <content:encoded><![CDATA[이상환]]></content:encoded>
+            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/9a37a1865c4f3b256daca8dc20345bea.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[✨채용 연계✨ 신인개발 온라인 부트캠프 [4기]]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/411</link>
@@ -150,22 +166,6 @@
             <pubDate>Sun, 04 Dec 2022 17:41:21 GMT</pubDate>
             <content:encoded><![CDATA[이상환]]></content:encoded>
             <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/22da5c8b17efd84c008c00076516d4c7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YGX 채용 합격전략]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/350</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/350</guid>
-            <pubDate>Sun, 04 Dec 2022 17:41:21 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/1ab32816269f77b3f109d5236786083e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이업 채용 대비 합격 전략 (서류+면접)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/349</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/349</guid>
-            <pubDate>Sun, 04 Dec 2022 17:41:21 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/caeb7eec63cc066fcc7d784a8874b7ac.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
