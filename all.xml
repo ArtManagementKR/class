@@ -4,9 +4,73 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jul 2023 05:42:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 05:42:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방송/미디어 직무 부트캠프: 콘텐츠 마케팅 (엔터잡에듀 ─ 온라인 클래스)]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/424</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/424</guid>
+            <pubDate>Thu, 06 Jul 2023 05:41:38 GMT</pubDate>
+            <content:encoded><![CDATA[김황욱]]></content:encoded>
+            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/3317959159acb33a82e246d744029bba.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[엔터 직무 부트캠프: 팬마케팅 (엔터잡에듀 ─ 온라인 클래스)]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/423</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/423</guid>
+            <pubDate>Thu, 06 Jul 2023 05:41:38 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅멘토]]></content:encoded>
+            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/4cdf1fc9bee1178900c6b302b6549b5f.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[엔터 직무 부트캠프 : 영상제작 (엔터잡에듀 ─ 온라인 클래스)]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/422</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/422</guid>
+            <pubDate>Thu, 06 Jul 2023 05:41:38 GMT</pubDate>
+            <content:encoded><![CDATA[이채영]]></content:encoded>
+            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/de5a8844dfe57a5adc33032c877e9977.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[포트폴리오/과제 부트캠프 (엔터잡에듀 ─ 온라인 클래스)]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/421</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/421</guid>
+            <pubDate>Thu, 06 Jul 2023 05:41:38 GMT</pubDate>
+            <content:encoded><![CDATA[윤선미]]></content:encoded>
+            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/50bbb0340cb0e92eac5992070c4471ef.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[엔터 직무 부트캠프: 아티스트 기획 (엔터잡에듀 ─ 온라인 클래스)]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/420</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/420</guid>
+            <pubDate>Thu, 06 Jul 2023 05:41:38 GMT</pubDate>
+            <content:encoded><![CDATA[윤선미]]></content:encoded>
+            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/f8cba076ab3ebec6eb9625bd2a2db908.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[A&R 직무 부트캠프: 음악으로 글쓰기 (엔터잡에듀 ─ 온라인 클래스)]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/419</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/419</guid>
+            <pubDate>Thu, 06 Jul 2023 05:41:38 GMT</pubDate>
+            <content:encoded><![CDATA[박준우]]></content:encoded>
+            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/b1a8813e579cdf6129c906d3993d2edf.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[엔터 직무 부트캠프: 공연기획 (엔터잡에듀 ─ 온라인 클래스)]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/418</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/418</guid>
+            <pubDate>Thu, 06 Jul 2023 05:41:38 GMT</pubDate>
+            <content:encoded><![CDATA[레나]]></content:encoded>
+            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/419f0987be87e0ab79a928abed5041f2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 면접 합격률 2배 올리는 엔터 면접법 (엔터잡에듀 ─ 온라인 클래스)]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/417</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/417</guid>
+            <pubDate>Thu, 06 Jul 2023 05:41:38 GMT</pubDate>
+            <content:encoded><![CDATA[이상환]]></content:encoded>
+            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/ede96b181762c62c9a56bee758df4a64.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[📝2023 10대 엔터테인먼트 기업 분석 및 지원동기 작성 전략 (엔터잡에듀 ─ 온라인 클래스)]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/415</link>
@@ -104,70 +168,6 @@
             <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/32e1932f8a6f02d5de5ab569e901a091.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[IST엔터테인먼트 채용 대비 합격전략 (엔터잡에듀 ─ 온라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/379</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/379</guid>
-            <pubDate>Mon, 17 Apr 2023 05:42:31 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/49f102d864409890a41d106377c024d1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미스틱 스토리 채용 대비 합격 전략 (엔터잡에듀 ─ 온라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/378</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/378</guid>
-            <pubDate>Mon, 17 Apr 2023 05:42:31 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/fcf913e6f7aef4d2f3fd8aae03b3e2e5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[ZOOM]1주일만에 끝내는🚨엔터 취업 한달반 FAST TRACK🚨 (엔터잡에듀 ─ 온라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/372</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/372</guid>
-            <pubDate>Mon, 17 Apr 2023 05:42:31 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/24a2ea84faf2234b0ff48f5981854388.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 엔터 산업 & 취업 트렌드 특강 (엔터잡에듀 ─ 온라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/377</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/377</guid>
-            <pubDate>Mon, 17 Apr 2023 05:42:31 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/35b760c6dcbc7435968f5c1ca9756cb6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AOMG 채용 대비 합격 전략 (서류+면접) (엔터잡에듀 ─ 온라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/373</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/373</guid>
-            <pubDate>Mon, 17 Apr 2023 05:42:31 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/7d7743d8a4d19205e7594d7c3fb88fff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어썸이엔티 채용 대비 합격 전략 (서류+면접) (엔터잡에듀 ─ 온라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/363</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/363</guid>
-            <pubDate>Mon, 17 Apr 2023 05:42:31 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/79207200825406881b1db343110d9e83.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HYBE LABELS 채용 대비 합격 전략(+기업분석자료집) (엔터잡에듀 ─ 온라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/362</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/362</guid>
-            <pubDate>Thu, 08 Dec 2022 17:41:48 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/0273e1945a5334ef506990ae3c65096e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HYBE SOLUTIONS 채용 대비 합격 전략(+기업분석자료집) (엔터잡에듀 ─ 온라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/361</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/361</guid>
-            <pubDate>Sun, 04 Dec 2022 17:41:21 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/22da5c8b17efd84c008c00076516d4c7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[나만의 합격 콘텐츠를 만들어주는 영상 콘텐츠 기획/제작 현직자 1:1 컨설팅 (엔터잡에듀 ─ 오프라인 클래스)]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/408</link>
             <guid>https://www.enterjobedu.co.kr/lecture/408</guid>
@@ -232,7 +232,7 @@
             <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/1f34d1b748580928e31afc3545a7ed81.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[🔥196명의 최종합격자 배출! 이상환 강사의 엔터 취업 한달반 (엔터잡에듀 ─ 오프라인 클래스)]]></title>
+            <title><![CDATA[🔥197명의 최종합격자 배출! 이상환 강사의 엔터 취업 한달반 (엔터잡에듀 ─ 오프라인 클래스)]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/308</link>
             <guid>https://www.enterjobedu.co.kr/lecture/308</guid>
             <pubDate>Sun, 04 Dec 2022 17:41:33 GMT</pubDate>
@@ -259,7 +259,7 @@
             <title><![CDATA[undefined (엔터잡에듀 ─ 오프라인 클래스)]]></title>
             <link>https://ArtManagementKR.github.io/class/all.xml</link>
             <guid>https://ArtManagementKR.github.io/class/all.xml</guid>
-            <pubDate>Tue, 04 Jul 2023 05:42:01 GMT</pubDate>
+            <pubDate>Thu, 06 Jul 2023 05:41:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[0에서 시작하는 수제포스터 (STACCATOH ─ Program)]]></title>
