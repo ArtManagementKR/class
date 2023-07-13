@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jul 2023 17:41:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 17:42:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔터 직무 부트캠프: 아티스트 기획 (엔터잡에듀 ─ 온라인 클래스)]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/420</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/420</guid>
+            <pubDate>Thu, 06 Jul 2023 05:41:38 GMT</pubDate>
+            <content:encoded><![CDATA[윤선미]]></content:encoded>
+            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/f8cba076ab3ebec6eb9625bd2a2db908.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[방송/미디어 직무 부트캠프: 콘텐츠 마케팅 (엔터잡에듀 ─ 온라인 클래스)]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/424</link>
@@ -38,14 +46,6 @@
             <pubDate>Thu, 06 Jul 2023 05:41:38 GMT</pubDate>
             <content:encoded><![CDATA[윤선미]]></content:encoded>
             <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/50bbb0340cb0e92eac5992070c4471ef.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엔터 직무 부트캠프: 아티스트 기획 (엔터잡에듀 ─ 온라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/420</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/420</guid>
-            <pubDate>Thu, 06 Jul 2023 05:41:38 GMT</pubDate>
-            <content:encoded><![CDATA[윤선미]]></content:encoded>
-            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/f8cba076ab3ebec6eb9625bd2a2db908.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[A&R 직무 부트캠프: 음악으로 글쓰기 (엔터잡에듀 ─ 온라인 클래스)]]></title>
@@ -232,7 +232,7 @@
             <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/1f34d1b748580928e31afc3545a7ed81.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[🔥197명의 최종합격자 배출! 이상환 강사의 엔터 취업 한달반 (엔터잡에듀 ─ 오프라인 클래스)]]></title>
+            <title><![CDATA[🔥198명의 최종합격자 배출! 이상환 강사의 엔터 취업 한달반 (엔터잡에듀 ─ 오프라인 클래스)]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/308</link>
             <guid>https://www.enterjobedu.co.kr/lecture/308</guid>
             <pubDate>Sun, 04 Dec 2022 17:41:33 GMT</pubDate>
@@ -259,7 +259,7 @@
             <title><![CDATA[undefined (엔터잡에듀 ─ 오프라인 클래스)]]></title>
             <link>https://ArtManagementKR.github.io/class/all.xml</link>
             <guid>https://ArtManagementKR.github.io/class/all.xml</guid>
-            <pubDate>Sun, 09 Jul 2023 17:40:40 GMT</pubDate>
+            <pubDate>Thu, 13 Jul 2023 17:41:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[0에서 시작하는 수제포스터 (STACCATOH ─ Program)]]></title>
