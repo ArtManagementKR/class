@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jul 2023 05:42:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 05:41:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>https://www.enterjobedu.co.kr/lecture/420</guid>
             <pubDate>Thu, 06 Jul 2023 05:41:38 GMT</pubDate>
             <content:encoded><![CDATA[윤선미]]></content:encoded>
-            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/d3b82399be8ecac015016117066f5d31.png" length="0" type="image/png"/>
+            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/ddac73fe809927af2eacb8c93e268d43.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[방송/미디어 직무 부트캠프: 콘텐츠 마케팅 (엔터잡에듀 ─ 온라인 클래스)]]></title>
@@ -259,7 +259,7 @@
             <title><![CDATA[undefined (엔터잡에듀 ─ 오프라인 클래스)]]></title>
             <link>https://ArtManagementKR.github.io/class/all.xml</link>
             <guid>https://ArtManagementKR.github.io/class/all.xml</guid>
-            <pubDate>Sat, 22 Jul 2023 05:41:55 GMT</pubDate>
+            <pubDate>Tue, 25 Jul 2023 05:40:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[0에서 시작하는 수제포스터 (STACCATOH ─ Program)]]></title>
