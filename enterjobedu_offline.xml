@@ -4,9 +4,17 @@
         <title>엔터잡에듀 ─ 오프라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 05:41:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Aug 2023 05:42:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4대 엔터 A&R 현직자가 알려주는 합격하는 A&R 포트폴리오 컨설팅]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/431</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/431</guid>
+            <pubDate>Sat, 26 Aug 2023 05:42:09 GMT</pubDate>
+            <content:encoded><![CDATA[Kimmie]]></content:encoded>
+            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/3059c1b92c4e86d2eddce030a82c1361.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나만의 합격 콘텐츠를 만들어주는 영상 콘텐츠 기획/제작 현직자 1:1 컨설팅]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/408</link>
@@ -94,12 +102,6 @@
             <pubDate>Sun, 04 Dec 2022 17:41:33 GMT</pubDate>
             <content:encoded><![CDATA[ZOO]]></content:encoded>
             <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/e70a8ade8ecc60b21ac1477e084ff4d8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[11]]></title>
-            <link>https://www.enterjobedu.co.kr/offline?page=1&amp;&amp;sort=new</link>
-            <guid>https://www.enterjobedu.co.kr/offline?page=1&amp;&amp;sort=new</guid>
-            <pubDate>Thu, 24 Aug 2023 05:41:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
