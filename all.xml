@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Sep 2023 05:42:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 05:42:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/ea4377012f5c0539a772cde7370816a2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[🔥CJ ENM 최종합격자 60명 배출! 2023 하반기 CJ ENM 공채 합격 전략 특강 (+특강 녹화본 제공) (엔터잡에듀 ─ 오프라인 클래스)]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/432</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/432</guid>
+            <pubDate>Thu, 14 Sep 2023 05:41:57 GMT</pubDate>
+            <content:encoded><![CDATA[이상환]]></content:encoded>
+            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/41378465a4cfe610c3cf32d16bda6afb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[4대 엔터 A&R 현직자가 알려주는 합격하는 A&R 포트폴리오 컨설팅 (엔터잡에듀 ─ 오프라인 클래스)]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/431</link>
             <guid>https://www.enterjobedu.co.kr/lecture/431</guid>
@@ -262,6 +270,24 @@
             <pubDate>Sun, 04 Dec 2022 17:41:33 GMT</pubDate>
             <content:encoded><![CDATA[ZOO]]></content:encoded>
             <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/e70a8ade8ecc60b21ac1477e084ff4d8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[undefined (엔터잡에듀 ─ 오프라인 클래스)]]></title>
+            <link>https://ArtManagementKR.github.io/class/all.xml</link>
+            <guid>https://ArtManagementKR.github.io/class/all.xml</guid>
+            <pubDate>Thu, 14 Sep 2023 05:41:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[undefined (엔터잡에듀 ─ 오프라인 클래스)]]></title>
+            <link>https://ArtManagementKR.github.io/class/all.xml</link>
+            <guid>https://ArtManagementKR.github.io/class/all.xml</guid>
+            <pubDate>Thu, 14 Sep 2023 05:41:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[undefined (엔터잡에듀 ─ 오프라인 클래스)]]></title>
+            <link>https://ArtManagementKR.github.io/class/all.xml</link>
+            <guid>https://ArtManagementKR.github.io/class/all.xml</guid>
+            <pubDate>Thu, 14 Sep 2023 05:41:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[0에서 시작하는 수제포스터 (STACCATOH ─ Program)]]></title>
