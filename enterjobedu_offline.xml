@@ -4,9 +4,17 @@
         <title>엔터잡에듀 ─ 오프라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 05:42:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 05:40:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대형기획사 해외직무 현직자의 1:1 컨설팅]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/435</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/435</guid>
+            <pubDate>Mon, 25 Sep 2023 05:40:24 GMT</pubDate>
+            <content:encoded><![CDATA[Bella]]></content:encoded>
+            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/fd99a56c197f94677bca804b569163d6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[🔥CJ ENM 최종합격자 60명 배출! 2023 하반기 CJ ENM 공채 합격 전략 특강 (+특강 녹화본 제공)]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/432</link>
@@ -88,7 +96,7 @@
             <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/1f34d1b748580928e31afc3545a7ed81.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[🔥199명의 최종합격자 배출! 이상환 강사의 엔터 취업 한달반]]></title>
+            <title><![CDATA[🔥201명의 최종합격자 배출! 이상환 강사의 엔터 취업 한달반]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/308</link>
             <guid>https://www.enterjobedu.co.kr/lecture/308</guid>
             <pubDate>Sun, 04 Dec 2022 17:41:33 GMT</pubDate>
@@ -112,22 +120,16 @@
             <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/e70a8ade8ecc60b21ac1477e084ff4d8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[13]]></title>
-            <link>https://www.enterjobedu.co.kr/offline?page=1&amp;&amp;sort=new</link>
-            <guid>https://www.enterjobedu.co.kr/offline?page=1&amp;&amp;sort=new</guid>
-            <pubDate>Thu, 14 Sep 2023 05:41:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[14]]></title>
             <link>https://www.enterjobedu.co.kr/offline?page=1&amp;&amp;sort=new</link>
             <guid>https://www.enterjobedu.co.kr/offline?page=1&amp;&amp;sort=new</guid>
-            <pubDate>Thu, 14 Sep 2023 05:41:57 GMT</pubDate>
+            <pubDate>Mon, 25 Sep 2023 05:40:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[15]]></title>
             <link>https://www.enterjobedu.co.kr/offline?page=1&amp;&amp;sort=new</link>
             <guid>https://www.enterjobedu.co.kr/offline?page=1&amp;&amp;sort=new</guid>
-            <pubDate>Thu, 14 Sep 2023 05:41:57 GMT</pubDate>
+            <pubDate>Mon, 25 Sep 2023 05:40:24 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 05:42:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 05:40:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 하반기 CJ ENM 공채 합격 전략 특강 (VOD) (엔터잡에듀 ─ 온라인 클래스)]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/434</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/434</guid>
+            <pubDate>Mon, 25 Sep 2023 05:40:12 GMT</pubDate>
+            <content:encoded><![CDATA[이상환]]></content:encoded>
+            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/0e4a2bf8bb6118f35db9c82e2cfcb85c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엔터 직무 부트캠프: 아티스트 기획 (엔터잡에듀 ─ 온라인 클래스)]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/420</link>
@@ -160,12 +168,12 @@
             <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/f22b56e90ab34950c584a0a835abde5c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[FNC 엔터테인먼트 채용 대비 합격전략 (엔터잡에듀 ─ 온라인 클래스)]]></title>
-            <link>https://www.enterjobedu.co.kr/lecture/383</link>
-            <guid>https://www.enterjobedu.co.kr/lecture/383</guid>
-            <pubDate>Mon, 17 Apr 2023 05:42:31 GMT</pubDate>
-            <content:encoded><![CDATA[이상환]]></content:encoded>
-            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/ea4377012f5c0539a772cde7370816a2.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[대형기획사 해외직무 현직자의 1:1 컨설팅 (엔터잡에듀 ─ 오프라인 클래스)]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/435</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/435</guid>
+            <pubDate>Mon, 25 Sep 2023 05:40:24 GMT</pubDate>
+            <content:encoded><![CDATA[Bella]]></content:encoded>
+            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/fd99a56c197f94677bca804b569163d6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[🔥CJ ENM 최종합격자 60명 배출! 2023 하반기 CJ ENM 공채 합격 전략 특강 (+특강 녹화본 제공) (엔터잡에듀 ─ 오프라인 클래스)]]></title>
@@ -248,7 +256,7 @@
             <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/1f34d1b748580928e31afc3545a7ed81.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[🔥199명의 최종합격자 배출! 이상환 강사의 엔터 취업 한달반 (엔터잡에듀 ─ 오프라인 클래스)]]></title>
+            <title><![CDATA[🔥201명의 최종합격자 배출! 이상환 강사의 엔터 취업 한달반 (엔터잡에듀 ─ 오프라인 클래스)]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/308</link>
             <guid>https://www.enterjobedu.co.kr/lecture/308</guid>
             <pubDate>Sun, 04 Dec 2022 17:41:33 GMT</pubDate>
@@ -275,19 +283,13 @@
             <title><![CDATA[undefined (엔터잡에듀 ─ 오프라인 클래스)]]></title>
             <link>https://ArtManagementKR.github.io/class/all.xml</link>
             <guid>https://ArtManagementKR.github.io/class/all.xml</guid>
-            <pubDate>Thu, 14 Sep 2023 05:41:57 GMT</pubDate>
+            <pubDate>Mon, 25 Sep 2023 05:40:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[undefined (엔터잡에듀 ─ 오프라인 클래스)]]></title>
             <link>https://ArtManagementKR.github.io/class/all.xml</link>
             <guid>https://ArtManagementKR.github.io/class/all.xml</guid>
-            <pubDate>Thu, 14 Sep 2023 05:41:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[undefined (엔터잡에듀 ─ 오프라인 클래스)]]></title>
-            <link>https://ArtManagementKR.github.io/class/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/class/all.xml</guid>
-            <pubDate>Thu, 14 Sep 2023 05:41:57 GMT</pubDate>
+            <pubDate>Mon, 25 Sep 2023 05:40:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[0에서 시작하는 수제포스터 (STACCATOH ─ Program)]]></title>
