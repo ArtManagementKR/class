@@ -4,9 +4,17 @@
         <title>엔터잡에듀 ─ 오프라인 클래스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 17:42:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 17:42:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[15년차 공연기획현직자의 1:1 컨설팅]]></title>
+            <link>https://www.enterjobedu.co.kr/lecture/437</link>
+            <guid>https://www.enterjobedu.co.kr/lecture/437</guid>
+            <pubDate>Thu, 19 Oct 2023 17:41:46 GMT</pubDate>
+            <content:encoded><![CDATA[레나]]></content:encoded>
+            <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/40011bc99d8a94b73843e998fcc19dce.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대형기획사 해외직무 현직자의 1:1 컨설팅]]></title>
             <link>https://www.enterjobedu.co.kr/lecture/435</link>
@@ -120,16 +128,10 @@
             <enclosure url="https://assets.enterjobedu.co.kr/class/thumb/e70a8ade8ecc60b21ac1477e084ff4d8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[14]]></title>
-            <link>https://www.enterjobedu.co.kr/offline?page=1&amp;&amp;sort=new</link>
-            <guid>https://www.enterjobedu.co.kr/offline?page=1&amp;&amp;sort=new</guid>
-            <pubDate>Mon, 16 Oct 2023 17:41:39 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[15]]></title>
             <link>https://www.enterjobedu.co.kr/offline?page=1&amp;&amp;sort=new</link>
             <guid>https://www.enterjobedu.co.kr/offline?page=1&amp;&amp;sort=new</guid>
-            <pubDate>Mon, 16 Oct 2023 17:41:39 GMT</pubDate>
+            <pubDate>Thu, 19 Oct 2023 17:41:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
